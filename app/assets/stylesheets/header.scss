@@ -1,0 +1,34 @@
+@import 'colors';
+
+.header {
+    align-items: center;
+    background-color: $primary;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: space-evenly;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+.logo {
+    img {
+        max-height: 32px;
+    }
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    li {
+        margin: 6px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        text-align: center;
+        padding: 3px 0;
+    }
+    .active {
+        border-bottom: 3px solid $text;
+    }
+}

@@ -1,0 +1,24 @@
+@import 'reset';
+@import 'fonts';
+@import 'colors';
+@import 'header';
+
+body {
+    color: $text;
+    font-family: $open;
+    margin-top: 100px;
+    font-weight: 300;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    &:hover {
+        color: $medium-dark-grey;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $industry;
+    font-weight: 400;
+}
