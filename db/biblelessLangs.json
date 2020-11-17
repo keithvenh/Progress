@@ -1,0 +1,6895 @@
+[{
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Aimaq",
+    "languageID": "aiq"
+  },
+  {
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Gawar-Bati",
+    "languageID": "gwt"
+  },
+  {
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Kamviri",
+    "languageID": "xvi"
+  },
+  {
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Pashai, Northeast",
+    "languageID": "aee"
+  },
+  {
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Pashai, Southwest",
+    "languageID": "psh"
+  },
+  {
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Prasuni",
+    "languageID": "prn"
+  },
+  {
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Sanglechi",
+    "languageID": "sgy"
+  },
+  {
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Shumashti",
+    "languageID": "sts"
+  },
+  {
+    "countryID": "AFG",
+    "country": "Afghanistan",
+    "name": "Tregami",
+    "languageID": "trm"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Hungu",
+    "languageID": "hng"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Kuvale",
+    "languageID": "olu"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Mbwela",
+    "languageID": "mfu"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Mpinda",
+    "languageID": "pnd"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Ndombe",
+    "languageID": "ndq"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Ngandyera",
+    "languageID": "nne"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Ngendelengo",
+    "languageID": "nql"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Nyengo",
+    "languageID": "nye"
+  },
+  {
+    "countryID": "AGO",
+    "country": "Angola",
+    "name": "Sama",
+    "languageID": "smd"
+  },
+  {
+    "countryID": "AUS",
+    "country": "Australia",
+    "name": "Gurindji Kriol",
+    "languageID": "gjr"
+  },
+  {
+    "countryID": "BGD",
+    "country": "Bangladesh",
+    "name": "Chak",
+    "languageID": "ckh"
+  },
+  {
+    "countryID": "BGD",
+    "country": "Bangladesh",
+    "name": "Megam",
+    "languageID": "mef"
+  },
+  {
+    "countryID": "BGD",
+    "country": "Bangladesh",
+    "name": "Pangkhua",
+    "languageID": "pkh"
+  },
+  {
+    "countryID": "BGD",
+    "country": "Bangladesh",
+    "name": "Tangchangya",
+    "languageID": "tnv"
+  },
+  {
+    "countryID": "BGD",
+    "country": "Bangladesh",
+    "name": "War-Jaintia",
+    "languageID": "aml"
+  },
+  {
+    "countryID": "BEN",
+    "country": "Benin",
+    "name": "Aguna",
+    "languageID": "aug"
+  },
+  {
+    "countryID": "BEN",
+    "country": "Benin",
+    "name": "Ede Nago, Kura",
+    "languageID": "nqk"
+  },
+  {
+    "countryID": "BEN",
+    "country": "Benin",
+    "name": "Gbe, Ayizo",
+    "languageID": "ayb"
+  },
+  {
+    "countryID": "BEN",
+    "country": "Benin",
+    "name": "Gbe, Kotafon",
+    "languageID": "kqk"
+  },
+  {
+    "countryID": "BEN",
+    "country": "Benin",
+    "name": "Gbe, Western Xwla",
+    "languageID": "xwl"
+  },
+  {
+    "countryID": "BEN",
+    "country": "Benin",
+    "name": "Nago, Southern",
+    "languageID": "nqg"
+  },
+  {
+    "countryID": "BEN",
+    "country": "Benin",
+    "name": "Notre",
+    "languageID": "bly"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Brokpake",
+    "languageID": "sgt"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Chalikha",
+    "languageID": "tgf"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Chocangacakha",
+    "languageID": "cgk"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Dzalakha",
+    "languageID": "dzl"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Gongduk",
+    "languageID": "goe"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Kurtokha",
+    "languageID": "xkz"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Lakha",
+    "languageID": "lkh"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Layakha",
+    "languageID": "lya"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Lhokpu",
+    "languageID": "lhp"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Lunanakha",
+    "languageID": "luk"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Nyenkha",
+    "languageID": "neh"
+  },
+  {
+    "countryID": "BTN",
+    "country": "Bhutan",
+    "name": "Olekha",
+    "languageID": "ole"
+  },
+  {
+    "countryID": "BWA",
+    "country": "Botswana",
+    "name": "Birwa",
+    "languageID": "brl"
+  },
+  {
+    "countryID": "BWA",
+    "country": "Botswana",
+    "name": "Kua",
+    "languageID": "tyu"
+  },
+  {
+    "countryID": "BWA",
+    "country": "Botswana",
+    "name": "Tswapong",
+    "languageID": "two"
+  },
+  {
+    "countryID": "BWA",
+    "country": "Botswana",
+    "name": "ǀGwi",
+    "languageID": "gwj"
+  },
+  {
+    "countryID": "BWA",
+    "country": "Botswana",
+    "name": "ǁAni",
+    "languageID": "hnh"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Araweté",
+    "languageID": "awt"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Awetí",
+    "languageID": "awe"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Cinta Larga",
+    "languageID": "cin"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Enawené-Nawé",
+    "languageID": "unk"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Hupdë",
+    "languageID": "jup"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Ikpeng",
+    "languageID": "txi"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Jurúna",
+    "languageID": "jur"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Matís",
+    "languageID": "mpq"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Mehináku",
+    "languageID": "mmh"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Panará",
+    "languageID": "kre"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Suruahá",
+    "languageID": "swx"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Suruí do Pará",
+    "languageID": "mdz"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Uru-Pa-In",
+    "languageID": "urp"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Waimiri-Atroarí",
+    "languageID": "atr"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Yaroamë",
+    "languageID": "yro"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Yawanawa",
+    "languageID": "ywn"
+  },
+  {
+    "countryID": "BRA",
+    "country": "Brazil",
+    "name": "Zo'é",
+    "languageID": "pto"
+  },
+  {
+    "countryID": "BFA",
+    "country": "Burkina Faso",
+    "name": "Bolon",
+    "languageID": "bof"
+  },
+  {
+    "countryID": "BFA",
+    "country": "Burkina Faso",
+    "name": "Kpeego",
+    "languageID": "cpo"
+  },
+  {
+    "countryID": "BFA",
+    "country": "Burkina Faso",
+    "name": "Pana",
+    "languageID": "pnq"
+  },
+  {
+    "countryID": "BFA",
+    "country": "Burkina Faso",
+    "name": "Sénoufo, Nanerigé",
+    "languageID": "sen"
+  },
+  {
+    "countryID": "BFA",
+    "country": "Burkina Faso",
+    "name": "Sénoufo, Senara",
+    "languageID": "seq"
+  },
+  {
+    "countryID": "BFA",
+    "country": "Burkina Faso",
+    "name": "Viemo",
+    "languageID": "vig"
+  },
+  {
+    "countryID": "BFA",
+    "country": "Burkina Faso",
+    "name": "Wara",
+    "languageID": "wbf"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Afade",
+    "languageID": "aal"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Akum",
+    "languageID": "aku"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Ambele",
+    "languageID": "ael"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Atong",
+    "languageID": "ato"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Balo",
+    "languageID": "bqo"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Barombi",
+    "languageID": "bbi"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Bassossi",
+    "languageID": "bsi"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Beba",
+    "languageID": "bfp"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Befang",
+    "languageID": "bby"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Busam",
+    "languageID": "bxs"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Caka",
+    "languageID": "ckx"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Dek",
+    "languageID": "dek"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Dugwor",
+    "languageID": "dme"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Gimme",
+    "languageID": "kmp"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Gimnime",
+    "languageID": "gmn"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Giziga, North",
+    "languageID": "gis"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Isu",
+    "languageID": "isu"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Jina",
+    "languageID": "jia"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Kendem",
+    "languageID": "kvm"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Kol",
+    "languageID": "biw"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Koshin",
+    "languageID": "kid"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Kuk",
+    "languageID": "kfn"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Kwakum",
+    "languageID": "kwu"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Laimbue",
+    "languageID": "lmx"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Longto",
+    "languageID": "wok"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Malgbe",
+    "languageID": "mxf"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Manta",
+    "languageID": "myg"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Mbo'",
+    "languageID": "mtk"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Mbonga",
+    "languageID": "xmb"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Mungbam",
+    "languageID": "mij"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Naki",
+    "languageID": "mff"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Ngamambo",
+    "languageID": "nbv"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Nkongho",
+    "languageID": "nkc"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Nubaca",
+    "languageID": "baf"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Sharwa",
+    "languageID": "swq"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Tibea",
+    "languageID": "ngy"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Tsuvan",
+    "languageID": "tsh"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Tuotomb",
+    "languageID": "ttf"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Usaghade",
+    "languageID": "usk"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Wawa",
+    "languageID": "www"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Weh",
+    "languageID": "weh"
+  },
+  {
+    "countryID": "CMR",
+    "country": "Cameroon",
+    "name": "Zhoa",
+    "languageID": "zhw"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Ali",
+    "languageID": "aiy"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Banda-Banda",
+    "languageID": "bpd"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Banda-Mbrès",
+    "languageID": "bqk"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Banda-Ndélé",
+    "languageID": "bfl"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Banda-Yangere",
+    "languageID": "yaj"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Bofi",
+    "languageID": "bff"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Mbati",
+    "languageID": "mdn"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Ngbaka Manza",
+    "languageID": "ngg"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Ngombe",
+    "languageID": "nmj"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Sango, Riverain",
+    "languageID": "snj"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Sara Kaba",
+    "languageID": "sbz"
+  },
+  {
+    "countryID": "CAF",
+    "country": "Central African Republic",
+    "name": "Yulu",
+    "languageID": "yul"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Ache",
+    "languageID": "yif"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Awa",
+    "languageID": "vwa"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Bai, Lama",
+    "languageID": "lay"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Biao",
+    "languageID": "byk"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Biao-Jiao Mien",
+    "languageID": "bje"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Biyo",
+    "languageID": "byo"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Cao Miao",
+    "languageID": "cov"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Chinese, Huizhou",
+    "languageID": "czh"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Chinese, Jinyu",
+    "languageID": "cjy"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Chinese, Min Zhong",
+    "languageID": "czo"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Cun",
+    "languageID": "cuq"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Dong, Northern",
+    "languageID": "doc"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Dzao Min",
+    "languageID": "bpn"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "E",
+    "languageID": "eee"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Enu",
+    "languageID": "enu"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Jiamao",
+    "languageID": "jio"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Kim Mun",
+    "languageID": "mji"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Lalu, Western",
+    "languageID": "ywl"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Lavrung",
+    "languageID": "jiq"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Limi",
+    "languageID": "ylm"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Lolopo, Southern",
+    "languageID": "ysp"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Maonan",
+    "languageID": "mmd"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Central Huishui",
+    "languageID": "hmc"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Central Mashan",
+    "languageID": "hmm"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Eastern Qiandong",
+    "languageID": "hmq"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Eastern Xiangxi",
+    "languageID": "muq"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Horned",
+    "languageID": "hrm"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Luopohe",
+    "languageID": "hml"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Northern Guiyang",
+    "languageID": "huj"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Northern Huishui",
+    "languageID": "hmi"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Northern Mashan",
+    "languageID": "hmp"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Southern Guiyang",
+    "languageID": "hmy"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Southwestern Guiyang",
+    "languageID": "hmg"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Miao, Southwestern Huishui",
+    "languageID": "hmh"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Mulam",
+    "languageID": "mlm"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Narua",
+    "languageID": "nru"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Nasu, Wumeng",
+    "languageID": "ywu"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Nisi",
+    "languageID": "yso"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Pholo",
+    "languageID": "yip"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Phowa, Hlepho",
+    "languageID": "yhl"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Pinghua, Northern",
+    "languageID": "cnp"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Pinghua, Southern",
+    "languageID": "csp"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Qiang, Southern",
+    "languageID": "qxs"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Waxianghua",
+    "languageID": "wxa"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Zhuang, Guibei",
+    "languageID": "zgb"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Zhuang, Liuqian",
+    "languageID": "zlq"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Zhuang, Minz",
+    "languageID": "zgm"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Zhuang, Qiubei",
+    "languageID": "zqe"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Zhuang, Yang",
+    "languageID": "zyg"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Zhuang, Yongnan",
+    "languageID": "zyn"
+  },
+  {
+    "countryID": "CHN",
+    "country": "China",
+    "name": "Zhuang, Zuojiang",
+    "languageID": "zzj"
+  },
+  {
+    "countryID": "COL",
+    "country": "Colombia",
+    "name": "Achaua",
+    "languageID": "aca"
+  },
+  {
+    "countryID": "COL",
+    "country": "Colombia",
+    "name": "Barí",
+    "languageID": "mot"
+  },
+  {
+    "countryID": "COL",
+    "country": "Colombia",
+    "name": "Cubeo",
+    "languageID": "ub"
+  },
+  {
+    "countryID": "COL",
+    "country": "Colombia",
+    "name": "Emberá-Baudó",
+    "languageID": "bdc"
+  },
+  {
+    "countryID": "COL",
+    "country": "Colombia",
+    "name": "Macaguán",
+    "languageID": "mbn"
+  },
+  {
+    "countryID": "COL",
+    "country": "Colombia",
+    "name": "Tunebo, Barro Negro",
+    "languageID": "tbn"
+  },
+  {
+    "countryID": "COL",
+    "country": "Colombia",
+    "name": "Tunebo, Western",
+    "languageID": "tnb"
+  },
+  {
+    "countryID": "COG",
+    "country": "Congo",
+    "name": "Bomitaba",
+    "languageID": "zmx"
+  },
+  {
+    "countryID": "COG",
+    "country": "Congo",
+    "name": "Likwala",
+    "languageID": "kwc"
+  },
+  {
+    "countryID": "COG",
+    "country": "Congo",
+    "name": "Monzombo",
+    "languageID": "moj"
+  },
+  {
+    "countryID": "COG",
+    "country": "Congo",
+    "name": "Ombamba",
+    "languageID": "mbm"
+  },
+  {
+    "countryID": "COG",
+    "country": "Congo",
+    "name": "Teke-Tsaayi",
+    "languageID": "tyi"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Aizi, Tiagbamrin",
+    "languageID": "ahi"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Anyin Morofo",
+    "languageID": "mtb"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Beng",
+    "languageID": "nhb"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Daho-Doo",
+    "languageID": "das"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Dida, Lakota",
+    "languageID": "dic"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Ega",
+    "languageID": "ega"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Guébie",
+    "languageID": "gie"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Khisa",
+    "languageID": "kqm"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Kla-Dan",
+    "languageID": "lda"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Kodia",
+    "languageID": "kwp"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Koro",
+    "languageID": "kfo"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Krobu",
+    "languageID": "kxb"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Loma",
+    "languageID": "loi"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Sénoufo, Shempire",
+    "languageID": "seb"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Wan",
+    "languageID": "wan"
+  },
+  {
+    "countryID": "CIV",
+    "country": "Côte d'Ivoire",
+    "name": "Wané",
+    "languageID": "hwa"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Baloi",
+    "languageID": "biz"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Bamwe",
+    "languageID": "bmg"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Bangba",
+    "languageID": "bbe"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Barambu",
+    "languageID": "brm"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Bendi",
+    "languageID": "bct"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Boma",
+    "languageID": "boh"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Bomboma",
+    "languageID": "bws"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Enya",
+    "languageID": "gey"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Foma",
+    "languageID": "fom"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Hamba",
+    "languageID": "hba"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Lele",
+    "languageID": "lel"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Lengola",
+    "languageID": "lej"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Ligenza",
+    "languageID": "lgz"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Lombi",
+    "languageID": "lmi"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Lwalu",
+    "languageID": "lwa"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Mabaale",
+    "languageID": "mmz"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Mbo",
+    "languageID": "zmw"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Mituku",
+    "languageID": "zmq"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Ndaka",
+    "languageID": "ndk"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Ngelima",
+    "languageID": "agh"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Pambia",
+    "languageID": "pmb"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Seba",
+    "languageID": "kdg"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Songo",
+    "languageID": "soo"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Songomeno",
+    "languageID": "soe"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Tagbu",
+    "languageID": "tbm"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Yamongeri",
+    "languageID": "ymg"
+  },
+  {
+    "countryID": "COD",
+    "country": "Democratic Republic of the Congo",
+    "name": "Yela",
+    "languageID": "yel"
+  },
+  {
+    "countryID": "ETH",
+    "country": "Ethiopia",
+    "name": "Daatsʼíin",
+    "languageID": "dtn"
+  },
+  {
+    "countryID": "ETH",
+    "country": "Ethiopia",
+    "name": "Hozo",
+    "languageID": "hoz"
+  },
+  {
+    "countryID": "ETH",
+    "country": "Ethiopia",
+    "name": "Shabo",
+    "languageID": "sbf"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Adangbe",
+    "languageID": "adq"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Chala",
+    "languageID": "cll"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Cherepon",
+    "languageID": "cpn"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Ghanaian Pidgin English",
+    "languageID": "gpe"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Gua",
+    "languageID": "gwx"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Jwira-Pepesa",
+    "languageID": "jwi"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Kamara",
+    "languageID": "jmr"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Kantosi",
+    "languageID": "xkt"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Kplang",
+    "languageID": "kph"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Larteh",
+    "languageID": "lar"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Ligbi",
+    "languageID": "lig"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Nchumbulu",
+    "languageID": "nlu"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Nkami",
+    "languageID": "nkq"
+  },
+  {
+    "countryID": "GHA",
+    "country": "Ghana",
+    "name": "Wasa",
+    "languageID": "wss"
+  },
+  {
+    "countryID": "GIN",
+    "country": "Guinea",
+    "name": "Baga Manduri",
+    "languageID": "bmd"
+  },
+  {
+    "countryID": "GIN",
+    "country": "Guinea",
+    "name": "Kakabe",
+    "languageID": "kke"
+  },
+  {
+    "countryID": "GIN",
+    "country": "Guinea",
+    "name": "Limba, East",
+    "languageID": "lma"
+  },
+  {
+    "countryID": "GIN",
+    "country": "Guinea",
+    "name": "Nalu",
+    "languageID": "naj"
+  },
+  {
+    "countryID": "GIN",
+    "country": "Guinea",
+    "name": "Zialo",
+    "languageID": "zil"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Aiton",
+    "languageID": "aio"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Andaman Hindi Creole",
+    "languageID": "hca"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Andh",
+    "languageID": "anr"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Aranadan",
+    "languageID": "aaf"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Atong",
+    "languageID": "aot"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Bhalay",
+    "languageID": "bhx"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Brokskat",
+    "languageID": "bkk"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Changthang",
+    "languageID": "cna"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Chaudangsi",
+    "languageID": "cdn"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Chaura",
+    "languageID": "crv"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Chinali",
+    "languageID": "cih"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Chug",
+    "languageID": "cvg"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Darmiya",
+    "languageID": "drd"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Eravallan",
+    "languageID": "era"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Godwari",
+    "languageID": "gdx"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Hinduri",
+    "languageID": "hii"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Jad",
+    "languageID": "jda"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Jangshung",
+    "languageID": "jna"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Jarawa",
+    "languageID": "anq"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kadar",
+    "languageID": "kej"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kalanadi",
+    "languageID": "wkl"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kanashi",
+    "languageID": "xns"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kanikkaran",
+    "languageID": "kev"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Khamba",
+    "languageID": "kbg"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kharia Thar",
+    "languageID": "ksy"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kinnauri, Bhoti",
+    "languageID": "nes"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kinnauri, Chitkuli",
+    "languageID": "cik"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Koraga, Korra",
+    "languageID": "kfd"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Koraga, Mudu",
+    "languageID": "vmd"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Korlai Portuguese Creole",
+    "languageID": "vkp"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kota",
+    "languageID": "kfe"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kudiya",
+    "languageID": "kfg"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kumbaran",
+    "languageID": "wkb"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kunduvadi",
+    "languageID": "wku"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kurichiya",
+    "languageID": "kfh"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kurmukar",
+    "languageID": "kfv"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Kurumba, Mullu",
+    "languageID": "kpb"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Lish",
+    "languageID": "lsh"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Lohar, Gade",
+    "languageID": "gda"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Lohar, Lahul",
+    "languageID": "lhl"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Lyngngam",
+    "languageID": "lyg"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Malankuravan",
+    "languageID": "mjo"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Malapandaram",
+    "languageID": "mjp"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Malavedan",
+    "languageID": "mjr"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Monpa, Kalaktang",
+    "languageID": "kkf"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Monpa, Tawang",
+    "languageID": "twm"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Mukha-Dora",
+    "languageID": "mmk"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Na",
+    "languageID": "nbt"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Naga, Puimei",
+    "languageID": "npu"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Nahari",
+    "languageID": "nhh"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Nicobarese, Southern",
+    "languageID": "nik"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Öñge",
+    "languageID": "oon"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Paliyan",
+    "languageID": "pcf"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Pathiya",
+    "languageID": "pty"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Phake",
+    "languageID": "phk"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Rongpo",
+    "languageID": "rnp"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Sentinel",
+    "languageID": "std"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Sherdukpen",
+    "languageID": "sdp"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Shom Peng",
+    "languageID": "sii"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Shumcho",
+    "languageID": "scu"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Stod Bhoti",
+    "languageID": "sbu"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Sunam",
+    "languageID": "ssk"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Teressa",
+    "languageID": "tef"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Thachanadan",
+    "languageID": "thn"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Tukpa",
+    "languageID": "tpq"
+  },
+  {
+    "countryID": "IND",
+    "country": "India",
+    "name": "Vishavan",
+    "languageID": "vis"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Abui",
+    "languageID": "abz"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Adang",
+    "languageID": "adn"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Aghu",
+    "languageID": "ahh"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Alor",
+    "languageID": "aol"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Ambelau",
+    "languageID": "amv"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Ampanang",
+    "languageID": "apg"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Asilulu",
+    "languageID": "asl"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Asmat, Casuarina Coast",
+    "languageID": "asc"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Awyu, Edera",
+    "languageID": "awy"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Awyu, South",
+    "languageID": "aws"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Babar, Southeast",
+    "languageID": "vbb"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bahau",
+    "languageID": "bhv"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bajau, Indonesian",
+    "languageID": "bdl"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Barakai",
+    "languageID": "baj"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Basap",
+    "languageID": "bdb"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bati",
+    "languageID": "bvt"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Batuley",
+    "languageID": "bay"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Beginci",
+    "languageID": "ebc"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bentong",
+    "languageID": "bnu"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Boano",
+    "languageID": "bzn"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bobot",
+    "languageID": "bty"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bolango",
+    "languageID": "bld"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bonerate",
+    "languageID": "bna"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bulungan",
+    "languageID": "blj"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Bungku",
+    "languageID": "bkz"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Buol",
+    "languageID": "blf"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Damar, East",
+    "languageID": "dmr"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Duano",
+    "languageID": "dup"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Dusun Deyah",
+    "languageID": "dun"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Gane",
+    "languageID": "gzn"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Geser-Gorom",
+    "languageID": "ges"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Haji",
+    "languageID": "hji"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Hitu",
+    "languageID": "htu"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Iha",
+    "languageID": "ihp"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Ile Ape",
+    "languageID": "ila"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Jangkang",
+    "languageID": "djo"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kaera",
+    "languageID": "jka"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kaili, Unde",
+    "languageID": "unz"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kalabra",
+    "languageID": "kzz"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kamang",
+    "languageID": "woi"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kamoro",
+    "languageID": "kgq"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kangean",
+    "languageID": "kkv"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Karon Dori",
+    "languageID": "kgw"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kayagar",
+    "languageID": "kyt"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kayan, Busang",
+    "languageID": "bfg"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kedang",
+    "languageID": "ksx"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kepo'",
+    "languageID": "kuk"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kerinci",
+    "languageID": "kvr"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kimaghima",
+    "languageID": "kig"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kioko",
+    "languageID": "ues"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kodi",
+    "languageID": "kod"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kokoda",
+    "languageID": "xod"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Koneq-koneq",
+    "languageID": "cml"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Konjo, Highland",
+    "languageID": "kjk"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Korowai",
+    "languageID": "khe"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kubu",
+    "languageID": "kvb"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kula",
+    "languageID": "tpg"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kulisusu",
+    "languageID": "vkl"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Kur",
+    "languageID": "kuv"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Laha",
+    "languageID": "lhh"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Lamalera",
+    "languageID": "lmr"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Lamatuka",
+    "languageID": "lmq"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Larike-Wakasihu",
+    "languageID": "alo"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Laura",
+    "languageID": "lur"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Lawangan",
+    "languageID": "lbx"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Lembata, South",
+    "languageID": "lmf"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Lembata, West",
+    "languageID": "lmj"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Levuka",
+    "languageID": "lvu"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Lewo Eleng",
+    "languageID": "lwe"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Lewotobi",
+    "languageID": "lwt"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Liana-Seti",
+    "languageID": "ste"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Lubu",
+    "languageID": "lcf"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Luhu",
+    "languageID": "lcq"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Ma'ya",
+    "languageID": "slz"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Maba",
+    "languageID": "mqa"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Maiwa",
+    "languageID": "wmm"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Makian, East",
+    "languageID": "mky"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Makian, West",
+    "languageID": "mqs"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Malay, Balinese",
+    "languageID": "mhp"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Malay, Banda",
+    "languageID": "bpq"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Malay, Berau",
+    "languageID": "bve"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Malay, Bukit",
+    "languageID": "bvu"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Malay, Larantuka",
+    "languageID": "lrt"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Malay, Tenggarong Kutai",
+    "languageID": "vkt"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Malimpung",
+    "languageID": "mli"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Mandobo Atas",
+    "languageID": "aax"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Mandobo Bawah",
+    "languageID": "bwp"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Mangole",
+    "languageID": "mqc"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Manombai",
+    "languageID": "woo"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Modang",
+    "languageID": "mxd"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Moi",
+    "languageID": "mxn"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Morop",
+    "languageID": "iwo"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Muyu, North",
+    "languageID": "kti"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Muyu, South",
+    "languageID": "kts"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Nasal",
+    "languageID": "nsy"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Ngad'a, Eastern",
+    "languageID": "nea"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Pancana",
+    "languageID": "pnp"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Pannei",
+    "languageID": "pnc"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Pantar, Western",
+    "languageID": "lev"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Patani",
+    "languageID": "ptn"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Pekal",
+    "languageID": "pel"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Putoh",
+    "languageID": "put"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Rajong",
+    "languageID": "rjg"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Rembong",
+    "languageID": "reb"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Sajau Basap",
+    "languageID": "sjb"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Sawila",
+    "languageID": "swt"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Seberuang",
+    "languageID": "sbx"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Seit-Kaitetu",
+    "languageID": "hik"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Sikule",
+    "languageID": "skh"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "So'a",
+    "languageID": "ssq"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Sou Nama",
+    "languageID": "tlt"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Sou Upaa",
+    "languageID": "wha"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Sula",
+    "languageID": "szn"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Taliabu",
+    "languageID": "tlv"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Tamagario",
+    "languageID": "tcg"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Taman",
+    "languageID": "tmn"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Tarangan, East",
+    "languageID": "tre"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Ternate",
+    "languageID": "tft"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Tidore",
+    "languageID": "tvo"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Tidung, Southern",
+    "languageID": "itd"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Tomini",
+    "languageID": "txm"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Tukang Besi North",
+    "languageID": "khc"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Ulumanda'",
+    "languageID": "ulm"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Uma' Lung",
+    "languageID": "ulu"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Wae Rana",
+    "languageID": "wrx"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Waioli",
+    "languageID": "wli"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Watubela",
+    "languageID": "wah"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Wemale",
+    "languageID": "weo"
+  },
+  {
+    "countryID": "IDN",
+    "country": "Indonesia",
+    "name": "Yaqay",
+    "languageID": "jaq"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Khalaj",
+    "languageID": "klj"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Khorasani Turkish",
+    "languageID": "kmz"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Lari",
+    "languageID": "lrl"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Lasgerdi",
+    "languageID": "lsa"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Natanzi",
+    "languageID": "ntz"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Nayini",
+    "languageID": "nyq"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Parsi-Dari",
+    "languageID": "prd"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Sangisari",
+    "languageID": "sgr"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Soi",
+    "languageID": "soj"
+  },
+  {
+    "countryID": "IRN",
+    "country": "Iran",
+    "name": "Sorkhei",
+    "languageID": "sqo"
+  },
+  {
+    "countryID": "KEN",
+    "country": "Kenya",
+    "name": "Keiyo",
+    "languageID": "eyo"
+  },
+  {
+    "countryID": "KEN",
+    "country": "Kenya",
+    "name": "Mwimbi-Muthambi",
+    "languageID": "mws"
+  },
+  {
+    "countryID": "KEN",
+    "country": "Kenya",
+    "name": "Olukhayo",
+    "languageID": "lko"
+  },
+  {
+    "countryID": "KEN",
+    "country": "Kenya",
+    "name": "Olumarachi",
+    "languageID": "lri"
+  },
+  {
+    "countryID": "KEN",
+    "country": "Kenya",
+    "name": "Olumarama",
+    "languageID": "lrm"
+  },
+  {
+    "countryID": "KEN",
+    "country": "Kenya",
+    "name": "Olushisa",
+    "languageID": "lks"
+  },
+  {
+    "countryID": "KEN",
+    "country": "Kenya",
+    "name": "Terik",
+    "languageID": "tec"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Bit",
+    "languageID": "bgk"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Bo",
+    "languageID": "bgl"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Con",
+    "languageID": "cno"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Kang",
+    "languageID": "kyp"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Katu, Western",
+    "languageID": "kuf"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Khuen",
+    "languageID": "khf"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Kiorr",
+    "languageID": "xko"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Kuan",
+    "languageID": "uan"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Laopang",
+    "languageID": "lbg"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Maleng",
+    "languageID": "pkt"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Phana'",
+    "languageID": "phq"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Phong-Kniang",
+    "languageID": "pnx"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Phunoi",
+    "languageID": "pho"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Saek",
+    "languageID": "skb"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Sila",
+    "languageID": "slt"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Sou",
+    "languageID": "sqq"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Tai Khang",
+    "languageID": "tnu"
+  },
+  {
+    "countryID": "LAO",
+    "country": "Laos",
+    "name": "Tai Long",
+    "languageID": "thi"
+  },
+  {
+    "countryID": "LBR",
+    "country": "Liberia",
+    "name": "Dewoin",
+    "languageID": "dee"
+  },
+  {
+    "countryID": "LBR",
+    "country": "Liberia",
+    "name": "Glio-Oubi",
+    "languageID": "oub"
+  },
+  {
+    "countryID": "LBR",
+    "country": "Liberia",
+    "name": "Grebo, Barclayville",
+    "languageID": "gry"
+  },
+  {
+    "countryID": "LBR",
+    "country": "Liberia",
+    "name": "Grebo, Central",
+    "languageID": "grv"
+  },
+  {
+    "countryID": "LBR",
+    "country": "Liberia",
+    "name": "Grebo, Gboloo",
+    "languageID": "gec"
+  },
+  {
+    "countryID": "LBR",
+    "country": "Liberia",
+    "name": "Grebo, Southern",
+    "languageID": "grj"
+  },
+  {
+    "countryID": "LBR",
+    "country": "Liberia",
+    "name": "Manya",
+    "languageID": "mzj"
+  },
+  {
+    "countryID": "LBR",
+    "country": "Liberia",
+    "name": "Tajuasohn",
+    "languageID": "tja"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Batek",
+    "languageID": "btq"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Bidayuh, Tringgus-Sembaan",
+    "languageID": "trx"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Bintulu",
+    "languageID": "bny"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Cheq Wong",
+    "languageID": "cwg"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Kadazan, Klias River",
+    "languageID": "kqt"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Kayan, Rejang",
+    "languageID": "ree"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Kintaq",
+    "languageID": "knq"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Kiput",
+    "languageID": "kyi"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Lahanan",
+    "languageID": "lhn"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Lobu, Lanas",
+    "languageID": "ruu"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Long Wat",
+    "languageID": "ttw"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Mah Meri",
+    "languageID": "mhe"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Melanau, Daro-Matu",
+    "languageID": "dro"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Melanau, Kanowit-Tanjong",
+    "languageID": "kxn"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Minokok",
+    "languageID": "mqq"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Minriq",
+    "languageID": "mnq"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Orang Seletar",
+    "languageID": "ors"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Penan, Bah-Biau",
+    "languageID": "pna"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Punan Batu",
+    "languageID": "pnm"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Remun",
+    "languageID": "lkj"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Sebop",
+    "languageID": "sib"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Sebuyau",
+    "languageID": "snb"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Sekapan",
+    "languageID": "skp"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Semaq Beri",
+    "languageID": "szc"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Semnam",
+    "languageID": "ssm"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Sihan",
+    "languageID": "spg"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Tring",
+    "languageID": "tgq"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Ukit",
+    "languageID": "umi"
+  },
+  {
+    "countryID": "MYS",
+    "country": "Malaysia",
+    "name": "Uma' Lasan",
+    "languageID": "xky"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Bangime",
+    "languageID": "dba"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Bozo, Tiemacèwè",
+    "languageID": "boo"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Ampari",
+    "languageID": "aqd"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Bankan Tey",
+    "languageID": "dbw"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Ben Tey",
+    "languageID": "dbt"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Bondum Dom",
+    "languageID": "dbu"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Bunoge",
+    "languageID": "dgb"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Dogul Dom",
+    "languageID": "dbg"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Nanga Dama",
+    "languageID": "nzz"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Tebul Ure",
+    "languageID": "dtu"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Tene Kan",
+    "languageID": "dtk"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Tiranige Diga",
+    "languageID": "tde"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Toro Tegu",
+    "languageID": "dtt"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Dogon, Yanda Dom",
+    "languageID": "dym"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Kagoro",
+    "languageID": "xkg"
+  },
+  {
+    "countryID": "MLI",
+    "country": "Mali",
+    "name": "Tondi Songway Kiini",
+    "languageID": "tst"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Amuzgo, Ipalapa",
+    "languageID": "azm"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Chinantec, Tepinapa",
+    "languageID": "cte"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Mazatec, Puebla and Northeastern",
+    "languageID": "pbm"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Mixtec, Cuyamecalco",
+    "languageID": "xtu"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Mixtec, Huitepec",
+    "languageID": "mxs"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Mixtec, Soyaltepec",
+    "languageID": "vmq"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Mixtec, Tamazola",
+    "languageID": "vmx"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Mixtec, Tijaltepec",
+    "languageID": "xtl"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Mixtec, Tututepec",
+    "languageID": "mtu"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Mixtec, Yutanduchi",
+    "languageID": "mab"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Nahuatl, Central",
+    "languageID": "nhn"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Nahuatl, Central Puebla",
+    "languageID": "ncx"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Totonac, Filomena Mata-Coahuitlán",
+    "languageID": "tlp"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, Ayoquesco",
+    "languageID": "zaf"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, El Alto",
+    "languageID": "zpp"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, Lachiguiri",
+    "languageID": "zpa"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, Petapa",
+    "languageID": "zpe"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, Quiavicuzas",
+    "languageID": "zpj"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, San Baltazar Loxicha",
+    "languageID": "zpx"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, Santa Catarina Albarradas",
+    "languageID": "ztn"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, Santiago Xanica",
+    "languageID": "zpr"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, Southeastern Ixtlán",
+    "languageID": "zpd"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zapotec, Zaniza",
+    "languageID": "zpw"
+  },
+  {
+    "countryID": "MEX",
+    "country": "Mexico",
+    "name": "Zoque, Chimalapa",
+    "languageID": "zoh"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Barwe",
+    "languageID": "bwg"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Dema",
+    "languageID": "dmx"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Maindo",
+    "languageID": "cwb"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Makhuwa-Marrevone",
+    "languageID": "xmc"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Makhuwa-Saka",
+    "languageID": "xsq"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Manyawa",
+    "languageID": "mny"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Marenje",
+    "languageID": "vmr"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Nathembo",
+    "languageID": "nte"
+  },
+  {
+    "countryID": "MOZ",
+    "country": "Mozambique",
+    "name": "Phimbi",
+    "languageID": "phm"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Chin, Laitu",
+    "languageID": "clj"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Chin, Rawngtu",
+    "languageID": "weu"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Chin, Rungtu",
+    "languageID": "rtc"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Chin, Songlai",
+    "languageID": "csj"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Chin, Sumtu",
+    "languageID": "csv"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Chin, Thaiphum",
+    "languageID": "cth"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Danau",
+    "languageID": "dnu"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Intha",
+    "languageID": "int"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Kanan",
+    "languageID": "zkn"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Karen, Geko",
+    "languageID": "ghk"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Karen, Mobwa",
+    "languageID": "jkm"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Karen, Paku",
+    "languageID": "jkp"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Lahta",
+    "languageID": "kvt"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Naga, Akyaung Ari",
+    "languageID": "nqy"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Naga, Chen-Kayu",
+    "languageID": "nqq"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Naga, Lao",
+    "languageID": "nlq"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Naga, Ponyo-Gongwang",
+    "languageID": "npg"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Palaung, Shwe",
+    "languageID": "pll"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Riang Lai",
+    "languageID": "yin"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Samtao",
+    "languageID": "stu"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Tai Laing",
+    "languageID": "tjl"
+  },
+  {
+    "countryID": "MMR",
+    "country": "Myanmar",
+    "name": "Zayein",
+    "languageID": "kxk"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Belhariya",
+    "languageID": "byw"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Chantyal",
+    "languageID": "chx"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Chhintang",
+    "languageID": "ctn"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Chhulung",
+    "languageID": "cur"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Dungmali",
+    "languageID": "raa"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Ghale, Northern",
+    "languageID": "ghh"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Jerung",
+    "languageID": "jee"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Kaike",
+    "languageID": "kzq"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Kham, Eastern Parbate",
+    "languageID": "kif"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Kham, Sheshi",
+    "languageID": "kip"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Koi",
+    "languageID": "kkt"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Kuke",
+    "languageID": "ght"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Mugom",
+    "languageID": "muk"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Nachering",
+    "languageID": "ncd"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Nar Phu",
+    "languageID": "npa"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Nubri",
+    "languageID": "kte"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Nyeshangte",
+    "languageID": "nmm"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Puma",
+    "languageID": "pum"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Raji",
+    "languageID": "rji"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Raute",
+    "languageID": "rau"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Tamang, Eastern Gorkha",
+    "languageID": "tge"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Tamang, Northwestern",
+    "languageID": "tmk"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Thakali",
+    "languageID": "ths"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Tichurong",
+    "languageID": "tcn"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Tsum",
+    "languageID": "ttz"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Wayu",
+    "languageID": "vay"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Yakkha, Chhathare",
+    "languageID": "luu"
+  },
+  {
+    "countryID": "NPL",
+    "country": "Nepal",
+    "name": "Yamphu, Southern",
+    "languageID": "lrr"
+  },
+  {
+    "countryID": "NCL",
+    "country": "New Caledonia",
+    "name": "Caac",
+    "languageID": "msq"
+  },
+  {
+    "countryID": "NCL",
+    "country": "New Caledonia",
+    "name": "Drubea",
+    "languageID": "duf"
+  },
+  {
+    "countryID": "NCL",
+    "country": "New Caledonia",
+    "name": "Fwâi",
+    "languageID": "fwa"
+  },
+  {
+    "countryID": "NCL",
+    "country": "New Caledonia",
+    "name": "Jawe",
+    "languageID": "jaz"
+  },
+  {
+    "countryID": "NCL",
+    "country": "New Caledonia",
+    "name": "Nemi",
+    "languageID": "nem"
+  },
+  {
+    "countryID": "NCL",
+    "country": "New Caledonia",
+    "name": "Numèè",
+    "languageID": "kdk"
+  },
+  {
+    "countryID": "NCL",
+    "country": "New Caledonia",
+    "name": "Nyelâyu",
+    "languageID": "yly"
+  },
+  {
+    "countryID": "NCL",
+    "country": "New Caledonia",
+    "name": "Yuanga",
+    "languageID": "nua"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Abon",
+    "languageID": "abo"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Acipa, Eastern",
+    "languageID": "acp"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Aduge",
+    "languageID": "adu"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Àhàn",
+    "languageID": "ahn"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ake",
+    "languageID": "aik"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Akpa",
+    "languageID": "akf"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Akpes",
+    "languageID": "ibe"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ambo",
+    "languageID": "amb"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Amo",
+    "languageID": "amo"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Anaang",
+    "languageID": "anw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Asu",
+    "languageID": "aum"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ayere",
+    "languageID": "aye"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Baan",
+    "languageID": "bvj"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Baangi",
+    "languageID": "bqx"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Bata",
+    "languageID": "bta"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Batu",
+    "languageID": "btu"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Beele",
+    "languageID": "bxq"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Bina",
+    "languageID": "byj"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Bitare",
+    "languageID": "brt"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Bo-Rukul",
+    "languageID": "mae"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Boga",
+    "languageID": "bvw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Bole",
+    "languageID": "bol"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Bukwen",
+    "languageID": "buz"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Bumaji",
+    "languageID": "byp"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Buru",
+    "languageID": "bqw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Cineni",
+    "languageID": "cie"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ciwogai",
+    "languageID": "tgd"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Doka",
+    "languageID": "dbi"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Doko-Uyanga",
+    "languageID": "uya"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Dong",
+    "languageID": "doh"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Duhwa",
+    "languageID": "kbz"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Dungu",
+    "languageID": "dbv"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Duwai",
+    "languageID": "dbp"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ebughu",
+    "languageID": "ebg"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Efai",
+    "languageID": "efa"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ehueun",
+    "languageID": "ehu"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Eki",
+    "languageID": "eki"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ekit",
+    "languageID": "eke"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Enai-Iuleha-Ora",
+    "languageID": "ema"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Enwan",
+    "languageID": "enw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Eruwa",
+    "languageID": "erh"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Esan",
+    "languageID": "ish"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Etebi",
+    "languageID": "etb"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Evant",
+    "languageID": "bzz"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Fam",
+    "languageID": "fam"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Fungwa",
+    "languageID": "ula"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Fyer",
+    "languageID": "fie"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gaa",
+    "languageID": "ttb"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ganang",
+    "languageID": "gne"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gengle",
+    "languageID": "geg"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gera",
+    "languageID": "gew"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Giiwo",
+    "languageID": "kks"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gudu",
+    "languageID": "gdu"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gupa-Abawa",
+    "languageID": "gpa"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gvoko",
+    "languageID": "ngs"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gwa",
+    "languageID": "gwb"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gyem",
+    "languageID": "gye"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Gyong",
+    "languageID": "kdm"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Hasha",
+    "languageID": "ybj"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Horom",
+    "languageID": "hoe"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ibino",
+    "languageID": "ibn"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ibuoro",
+    "languageID": "ibr"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Idere",
+    "languageID": "ide"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Idesa",
+    "languageID": "ids"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Iguta",
+    "languageID": "nar"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Igwe",
+    "languageID": "igw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Iko",
+    "languageID": "iki"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ikulu",
+    "languageID": "ikl"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ito",
+    "languageID": "itw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Itu Mbon Uzo",
+    "languageID": "itm"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Iyayu",
+    "languageID": "iya"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Jakattoe",
+    "languageID": "jrt"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Jara",
+    "languageID": "jaf"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Jiru",
+    "languageID": "jrr"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ju",
+    "languageID": "juu"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kaan",
+    "languageID": "ldl"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kaivi",
+    "languageID": "kce"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kamantan",
+    "languageID": "kci"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kami",
+    "languageID": "kmi"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kapya",
+    "languageID": "klo"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kariya",
+    "languageID": "kil"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kholok",
+    "languageID": "ktc"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kinuku",
+    "languageID": "kkd"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kir-Balar",
+    "languageID": "kkr"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Koenoem",
+    "languageID": "kcs"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kofa",
+    "languageID": "kso"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kofyar",
+    "languageID": "kwl"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kono",
+    "languageID": "klk"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Korop",
+    "languageID": "krp"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kpasham",
+    "languageID": "pbn"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kugama",
+    "languageID": "kow"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kumba",
+    "languageID": "ksm"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kurama",
+    "languageID": "krh"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kusur-Myet",
+    "languageID": "tdl"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kutto",
+    "languageID": "kpa"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kwa",
+    "languageID": "kwb"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kwaami",
+    "languageID": "ksq"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kyak",
+    "languageID": "bka"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Kyanga",
+    "languageID": "tye"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Laka",
+    "languageID": "lak"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Lame",
+    "languageID": "bma"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Lamja-Dengsa-Tola",
+    "languageID": "ldh"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Laru",
+    "languageID": "lan"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Leyigha",
+    "languageID": "ayi"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Lopa",
+    "languageID": "lop"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Lubila",
+    "languageID": "kcc"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Maaka",
+    "languageID": "mew"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Mak",
+    "languageID": "pbl"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Mala",
+    "languageID": "ruy"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Mangas",
+    "languageID": "zns"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Mashi",
+    "languageID": "jms"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Mboi",
+    "languageID": "moi"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Mbongno",
+    "languageID": "bgu"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Miship",
+    "languageID": "mjs"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Mundat",
+    "languageID": "mmf"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Mvanip",
+    "languageID": "mcj"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ndunda",
+    "languageID": "nuh"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Nggwahyi",
+    "languageID": "ngx"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Nkari",
+    "languageID": "nkz"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Nkoroo",
+    "languageID": "nkx"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Nungu",
+    "languageID": "rin"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Obulom",
+    "languageID": "obu"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ogbogolo",
+    "languageID": "ogg"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ogbronuagum",
+    "languageID": "ogu"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Oko-Eni-Osayen",
+    "languageID": "oks"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Okobo",
+    "languageID": "okb"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Okodia",
+    "languageID": "okd"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Okpamheri",
+    "languageID": "opa"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Okpe",
+    "languageID": "oke"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Oring",
+    "languageID": "org"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Oro",
+    "languageID": "orx"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Pa'a",
+    "languageID": "pqa"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Panawa",
+    "languageID": "pwb"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Piapung",
+    "languageID": "pcw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Pye",
+    "languageID": "pai"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Rom",
+    "languageID": "tdk"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Sasaru",
+    "languageID": "sxs"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Sha",
+    "languageID": "scw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Shall-Zwall",
+    "languageID": "sha"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Shoo-Minda-Nye",
+    "languageID": "bcv"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Shuwa-Zamani",
+    "languageID": "ksa"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Tanjijili",
+    "languageID": "uji"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Tee",
+    "languageID": "tkq"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Teme",
+    "languageID": "tdo"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Tita",
+    "languageID": "tdq"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Toro",
+    "languageID": "tdv"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Tso",
+    "languageID": "ldp"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Tsucuba",
+    "languageID": "cbq"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Tumi",
+    "languageID": "kku"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Tunzuii",
+    "languageID": "dza"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ubang",
+    "languageID": "uba"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Uda",
+    "languageID": "uda"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Uhami",
+    "languageID": "uha"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ukaan",
+    "languageID": "kcf"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ukpet-Ehom",
+    "languageID": "akd"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ukue",
+    "languageID": "uku"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Ukwa",
+    "languageID": "ukq"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Uneme",
+    "languageID": "une"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Uvbie",
+    "languageID": "evh"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Uzekwe",
+    "languageID": "eze"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Vemgo-Mabas",
+    "languageID": "vem"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Vono",
+    "languageID": "kch"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Waka",
+    "languageID": "wav"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Wannu",
+    "languageID": "jub"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Wãpha",
+    "languageID": "juw"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Wom",
+    "languageID": "wom"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Yotti",
+    "languageID": "yot"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Yukuben",
+    "languageID": "ybl"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Zangwal",
+    "languageID": "zah"
+  },
+  {
+    "countryID": "NGA",
+    "country": "Nigeria",
+    "name": "Zizilivakan",
+    "languageID": "ziz"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Bateri",
+    "languageID": "btv"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Dehwari",
+    "languageID": "deh"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Ghera",
+    "languageID": "ghr"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Goaria",
+    "languageID": "gig"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Hindko, Southern",
+    "languageID": "hnd"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Jadgali",
+    "languageID": "jdg"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Jandavra",
+    "languageID": "jnd"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Jogi",
+    "languageID": "jog"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Kalasha",
+    "languageID": "kls"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Khetrani",
+    "languageID": "xhe"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Lasi",
+    "languageID": "lss"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Loarki",
+    "languageID": "lrk"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Ormuri",
+    "languageID": "oru"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Pashto, Central",
+    "languageID": "pst"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Shina, Kohistani",
+    "languageID": "plk"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Sindhi Bhil",
+    "languageID": "sbn"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Ushojo",
+    "languageID": "ush"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Vaghri",
+    "languageID": "vgr"
+  },
+  {
+    "countryID": "PAK",
+    "country": "Pakistan",
+    "name": "Waneci",
+    "languageID": "wne"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Aiome",
+    "languageID": "aki"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Amaimon",
+    "languageID": "ali"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Amal",
+    "languageID": "aad"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ambul",
+    "languageID": "apo"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Amio-Gelimi",
+    "languageID": "let"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Anam",
+    "languageID": "pda"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Anamgura",
+    "languageID": "imi"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Andra-Hus",
+    "languageID": "anx"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Anem",
+    "languageID": "anz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Angoram",
+    "languageID": "aog"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Anor",
+    "languageID": "anj"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Aribwaung",
+    "languageID": "ylu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Aruek",
+    "languageID": "aur"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Askopan",
+    "languageID": "eiv"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Avau",
+    "languageID": "avb"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Awar",
+    "languageID": "aya"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Baimak",
+    "languageID": "bmx"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Bannoni",
+    "languageID": "bcm"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Bauwaki",
+    "languageID": "bwk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Bebeli",
+    "languageID": "bek"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Biage",
+    "languageID": "bdf"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Bilbil",
+    "languageID": "brz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Binahari",
+    "languageID": "bxz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Bipi",
+    "languageID": "biq"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Biwat",
+    "languageID": "bwm"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Bongu",
+    "languageID": "bpu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Boselewa",
+    "languageID": "bwf"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Brem",
+    "languageID": "buq"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Bulu",
+    "languageID": "bjl"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Buna",
+    "languageID": "bvn"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Chambri",
+    "languageID": "can"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Changriwa",
+    "languageID": "cga"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Daantanai'",
+    "languageID": "lni"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Degenan",
+    "languageID": "dge"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Dia",
+    "languageID": "dia"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Dibiyaso",
+    "languageID": "dby"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Dima",
+    "languageID": "jma"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Domu",
+    "languageID": "dof"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Doso",
+    "languageID": "dol"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Dubuporo",
+    "languageID": "ynl"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Elkei",
+    "languageID": "elk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Elu",
+    "languageID": "elu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ere",
+    "languageID": "twp"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Gaina",
+    "languageID": "gcn"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Galeya",
+    "languageID": "gar"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Gants",
+    "languageID": "gao"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Garus",
+    "languageID": "gyb"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Gavak",
+    "languageID": "dmc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ginuman",
+    "languageID": "gnm"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Gitua",
+    "languageID": "ggt"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Gnau",
+    "languageID": "gnu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Gorakor",
+    "languageID": "goc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Gumalu",
+    "languageID": "gmu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Hahon",
+    "languageID": "hah"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Haigwai",
+    "languageID": "hgw"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Hakö",
+    "languageID": "hao"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Heyo",
+    "languageID": "auk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Humene",
+    "languageID": "huf"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Idi",
+    "languageID": "idi"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Isebe",
+    "languageID": "igo"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Jilim",
+    "languageID": "jil"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kairak",
+    "languageID": "ckr"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kairiru",
+    "languageID": "kxa"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kaki Ae",
+    "languageID": "tbd"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kalou",
+    "languageID": "ywa"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kanggape",
+    "languageID": "igm"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kap",
+    "languageID": "ykm"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kapriman",
+    "languageID": "dju"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Karawari",
+    "languageID": "tzx"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Karnai",
+    "languageID": "bbv"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Karore",
+    "languageID": "xkx"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kele",
+    "languageID": "sbc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Keoru-Ahia",
+    "languageID": "xeu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Khehek",
+    "languageID": "tlx"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kobol",
+    "languageID": "kgu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kobuka",
+    "languageID": "urg"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kodut, North",
+    "languageID": "una"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kodut, South",
+    "languageID": "mcy"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Koiari, Grass",
+    "languageID": "kbk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Koiwat",
+    "languageID": "kxt"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Konomala",
+    "languageID": "koa"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kopar",
+    "languageID": "xop"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Korak",
+    "languageID": "koz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Koromira",
+    "languageID": "kqj"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Koromu",
+    "languageID": "xes"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kou",
+    "languageID": "snz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kove",
+    "languageID": "kvc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kumalu",
+    "languageID": "ksl"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Kumukio",
+    "languageID": "kuo"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Laeko-Libuat",
+    "languageID": "lkl"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Lawunuia",
+    "languageID": "tgi"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Lembena",
+    "languageID": "leq"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Loniu",
+    "languageID": "los"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Lungalunga",
+    "languageID": "vmg"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ma Manda",
+    "languageID": "skc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Maiwala",
+    "languageID": "mum"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Mala",
+    "languageID": "mmt"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Malas",
+    "languageID": "mkr"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Manem",
+    "languageID": "jet"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Mari",
+    "languageID": "hob"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Maria",
+    "languageID": "mds"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Medebur",
+    "languageID": "mjm"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Mehek",
+    "languageID": "nux"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Mekmek",
+    "languageID": "mvk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Moikodi",
+    "languageID": "mkp"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Mondropolon",
+    "languageID": "npn"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Morawa",
+    "languageID": "mze"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Mubami",
+    "languageID": "tsx"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Munit",
+    "languageID": "mtc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Mur Pano",
+    "languageID": "tkv"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Murik",
+    "languageID": "mtf"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Musar",
+    "languageID": "mmi"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Nabi",
+    "languageID": "mty"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Nakame",
+    "languageID": "nib"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Nanubae",
+    "languageID": "afk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Nekgini",
+    "languageID": "nkg"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Neko",
+    "languageID": "nej"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Niksek",
+    "languageID": "gbe"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Nimi",
+    "languageID": "nis"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ningil",
+    "languageID": "niz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Nuk",
+    "languageID": "noc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "One, Molmo",
+    "languageID": "aun"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ontenu",
+    "languageID": "ont"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Opao",
+    "languageID": "opo"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Oune",
+    "languageID": "oue"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Pagi",
+    "languageID": "pgi"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Pahi",
+    "languageID": "lgt"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Pak-Tong",
+    "languageID": "pkg"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Paluai",
+    "languageID": "blq"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Pano",
+    "languageID": "mqz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Penchal",
+    "languageID": "pek"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ponam",
+    "languageID": "ncc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Rawo",
+    "languageID": "rwa"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Rempi",
+    "languageID": "rmp"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Rerau",
+    "languageID": "rea"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Romkun",
+    "languageID": "rmk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Sarasira",
+    "languageID": "zsa"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Sengo",
+    "languageID": "spk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Sepa",
+    "languageID": "spe"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Setaman",
+    "languageID": "stm"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Sewa Bay",
+    "languageID": "sew"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Sihan",
+    "languageID": "snr"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Siliput",
+    "languageID": "mkc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Simeku",
+    "languageID": "smz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Solong",
+    "languageID": "aaw"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Sori-Harengan",
+    "languageID": "sbh"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Sowanda",
+    "languageID": "sow"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Tainae",
+    "languageID": "ago"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Tomoip",
+    "languageID": "tqp"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Torau",
+    "languageID": "ttu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Tulil",
+    "languageID": "tuh"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Tulu-Bohuai",
+    "languageID": "rak"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Tumleo",
+    "languageID": "tmq"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ufim",
+    "languageID": "ufi"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Ulau-Suain",
+    "languageID": "svb"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Uneapa",
+    "languageID": "bbn"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Utarmbung",
+    "languageID": "omo"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Utu",
+    "languageID": "utu"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Uyajitaya",
+    "languageID": "duk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Vanimo",
+    "languageID": "vam"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wa'ema",
+    "languageID": "wag"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wadaginam",
+    "languageID": "wdg"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wagama",
+    "languageID": "abg"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wagawaga",
+    "languageID": "wgb"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wampur",
+    "languageID": "waz"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wanambre",
+    "languageID": "wnb"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wanap",
+    "languageID": "wnp"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wára",
+    "languageID": "tci"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Waruna",
+    "languageID": "wrv"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wasembo",
+    "languageID": "gsp"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Watiwa",
+    "languageID": "wtf"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Waube",
+    "languageID": "kop"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Weliki",
+    "languageID": "klh"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wogamusin",
+    "languageID": "wog"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wogeo",
+    "languageID": "woc"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Wutung",
+    "languageID": "wut"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yaben",
+    "languageID": "ybm"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yabong",
+    "languageID": "ybo"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yahang",
+    "languageID": "rhp"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yalaku",
+    "languageID": "ylg"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yaleba",
+    "languageID": "ylb"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yangum Mon",
+    "languageID": "ymo"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yekora",
+    "languageID": "ykr"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yil",
+    "languageID": "yll"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yis",
+    "languageID": "yis"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Yoidik",
+    "languageID": "ydk"
+  },
+  {
+    "countryID": "PNG",
+    "country": "Papua New Guinea",
+    "name": "Zenag",
+    "languageID": "zeg"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Kakataibo-Kashibo",
+    "languageID": "cvr"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Mashco Piro",
+    "languageID": "cuj"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Pisabo",
+    "languageID": "pig"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Quechua, Chachapoyas",
+    "languageID": "quk"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Quechua, Jauja Wanca",
+    "languageID": "qxw"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Shawi",
+    "languageID": "cbt"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Shipibo-Conibo",
+    "languageID": "shp"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Spanish, Charapa",
+    "languageID": "spq"
+  },
+  {
+    "countryID": "PER",
+    "country": "Peru",
+    "name": "Yanesha'",
+    "languageID": "ame"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Bantayanon",
+    "languageID": "bfx"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Baybayanon",
+    "languageID": "bvy"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Bikol, Libon",
+    "languageID": "lbl"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Bikol, Miraya",
+    "languageID": "rbl"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Bikol, West Albay",
+    "languageID": "fbl"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Binukidnon, Northern",
+    "languageID": "kyn"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Binukidnon, Southern",
+    "languageID": "mtw"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Bontok, Southern",
+    "languageID": "obk"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Iranun",
+    "languageID": "ilp"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Itneg, Banao",
+    "languageID": "bjx"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Kinabalian",
+    "languageID": "cbw"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Manide",
+    "languageID": "abd"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Manobo, Rajah Kabunsuwan",
+    "languageID": "mqk"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Surigaonon",
+    "languageID": "sgd"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Tandaganon",
+    "languageID": "tgn"
+  },
+  {
+    "countryID": "PHL",
+    "country": "Philippines",
+    "name": "Yogad",
+    "languageID": "yog"
+  },
+  {
+    "countryID": "SEN",
+    "country": "Senegal",
+    "name": "Kerak",
+    "languageID": "hhr"
+  },
+  {
+    "countryID": "SEN",
+    "country": "Senegal",
+    "name": "Laalaa",
+    "languageID": "cae"
+  },
+  {
+    "countryID": "SEN",
+    "country": "Senegal",
+    "name": "Mlomp",
+    "languageID": "mlo"
+  },
+  {
+    "countryID": "SEN",
+    "country": "Senegal",
+    "name": "Paloor",
+    "languageID": "fap"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Amba",
+    "languageID": "utp"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Birao",
+    "languageID": "brr"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Dori'o",
+    "languageID": "dor"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Kokota",
+    "languageID": "kkk"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Kusaghe",
+    "languageID": "ksg"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Longgu",
+    "languageID": "lgu"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Ughele",
+    "languageID": "uge"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Vaeakau-Taumako",
+    "languageID": "piv"
+  },
+  {
+    "countryID": "SLB",
+    "country": "Solomon Islands",
+    "name": "Vaghua",
+    "languageID": "tva"
+  },
+  {
+    "countryID": "SSD",
+    "country": "South Sudan",
+    "name": "Baka",
+    "languageID": "bdh"
+  },
+  {
+    "countryID": "SSD",
+    "country": "South Sudan",
+    "name": "Belanda Bor",
+    "languageID": "bxb"
+  },
+  {
+    "countryID": "SSD",
+    "country": "South Sudan",
+    "name": "Belanda Viri",
+    "languageID": "bvi"
+  },
+  {
+    "countryID": "SSD",
+    "country": "South Sudan",
+    "name": "Dongotono",
+    "languageID": "ddd"
+  },
+  {
+    "countryID": "SSD",
+    "country": "South Sudan",
+    "name": "Jur Modo",
+    "languageID": "bex"
+  },
+  {
+    "countryID": "SSD",
+    "country": "South Sudan",
+    "name": "Lokoya",
+    "languageID": "lky"
+  },
+  {
+    "countryID": "SSD",
+    "country": "South Sudan",
+    "name": "Nyamusa-Molo",
+    "languageID": "nwm"
+  },
+  {
+    "countryID": "SSD",
+    "country": "South Sudan",
+    "name": "Olu'bo",
+    "languageID": "lul"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Afitti",
+    "languageID": "aft"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Dagik",
+    "languageID": "dec"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Daju, Dar Fur",
+    "languageID": "daj"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Ganza",
+    "languageID": "gza"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Kanga",
+    "languageID": "kcp"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Katla",
+    "languageID": "kcr"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Lafofa",
+    "languageID": "laf"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Logorik",
+    "languageID": "liu"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Midob",
+    "languageID": "mei"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Nding",
+    "languageID": "eli"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Ngile",
+    "languageID": "jle"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Tagoi",
+    "languageID": "tag"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Tegali",
+    "languageID": "ras"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Temein",
+    "languageID": "teq"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Tese",
+    "languageID": "keg"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Tocho",
+    "languageID": "taz"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Tulishi",
+    "languageID": "tey"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Tumtum",
+    "languageID": "tbr"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Wali",
+    "languageID": "wll"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Warnang",
+    "languageID": "wrn"
+  },
+  {
+    "countryID": "SDN",
+    "country": "Sudan",
+    "name": "Zaghawa",
+    "languageID": "zag"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Cutchi-Swahili",
+    "languageID": "ccl"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Kahe",
+    "languageID": "hka"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Kimbu",
+    "languageID": "kiv"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Magoma",
+    "languageID": "gmx"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Nyambo",
+    "languageID": "now"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Nyika, Tanzania",
+    "languageID": "nkt"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Rombo",
+    "languageID": "rof"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Rufiji",
+    "languageID": "rui"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Rungwa",
+    "languageID": "rnw"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Subi",
+    "languageID": "xsj"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Sumbwa",
+    "languageID": "suw"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Tongwe",
+    "languageID": "tny"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Vinza",
+    "languageID": "vin"
+  },
+  {
+    "countryID": "TZA",
+    "country": "Tanzania",
+    "name": "Wanda",
+    "languageID": "wbh"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Aheu",
+    "languageID": "thm"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Karen, Phrae Pwo",
+    "languageID": "kjt"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Mlabri",
+    "languageID": "mra"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Moklen",
+    "languageID": "mkm"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Mpi",
+    "languageID": "mpz"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Nyaw",
+    "languageID": "nyw"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Nyeu",
+    "languageID": "nyl"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Phuan",
+    "languageID": "phu"
+  },
+  {
+    "countryID": "THA",
+    "country": "Thailand",
+    "name": "Yoy",
+    "languageID": "yoy"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Bunak",
+    "languageID": "bfn"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Galolen",
+    "languageID": "gal"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Habun",
+    "languageID": "hbu"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Idaté",
+    "languageID": "idt"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Kemak",
+    "languageID": "kem"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Lakalei",
+    "languageID": "lka"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Nauete",
+    "languageID": "nxa"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Waima'a",
+    "languageID": "wmh"
+  },
+  {
+    "countryID": "TLS",
+    "country": "Timor-Leste",
+    "name": "Welaun",
+    "languageID": "wlh"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Avava",
+    "languageID": "tmb"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Baetora",
+    "languageID": "btr"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Banam Bay",
+    "languageID": "vrt"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Bierebo",
+    "languageID": "bnk"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Butmas-Tur",
+    "languageID": "bnr"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Daakaka",
+    "languageID": "bpa"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Eton",
+    "languageID": "etn"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Larevat",
+    "languageID": "lrv"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Letemboi",
+    "languageID": "nms"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Mae",
+    "languageID": "mme"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Maewo, Central",
+    "languageID": "mwo"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Malo",
+    "languageID": "mla"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Malua Bay",
+    "languageID": "mll"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Marino",
+    "languageID": "mrb"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Navut",
+    "languageID": "nsw"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Neve'ei",
+    "languageID": "vnm"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Neverver",
+    "languageID": "lgk"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Nume",
+    "languageID": "tgs"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Tutuba",
+    "languageID": "tmi"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Vao",
+    "languageID": "vao"
+  },
+  {
+    "countryID": "VUT",
+    "country": "Vanuatu",
+    "name": "Vurës",
+    "languageID": "msn"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Côông",
+    "languageID": "cnc"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "En",
+    "languageID": "enc"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Katua",
+    "languageID": "kta"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Khao",
+    "languageID": "xao"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Khua",
+    "languageID": "xhv"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Kucong",
+    "languageID": "lkc"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Laghuu",
+    "languageID": "lgh"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Mang",
+    "languageID": "zng"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Mantsi",
+    "languageID": "nty"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Mnong, Southern",
+    "languageID": "mnn"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Ná-Meo",
+    "languageID": "neo"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Nguôn",
+    "languageID": "nuo"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Phula",
+    "languageID": "phh"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Phuong",
+    "languageID": "phg"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Puoc",
+    "languageID": "puo"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Qabiao",
+    "languageID": "laq"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Roglai, Cacgia",
+    "languageID": "roc"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Romam",
+    "languageID": "rmx"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Tai Daeng",
+    "languageID": "tyr"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Tai Yo",
+    "languageID": "tyj"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Takua",
+    "languageID": "tkz"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Tày Sa Pa",
+    "languageID": "tys"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Thu Lao",
+    "languageID": "tyl"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Todrah",
+    "languageID": "tdr"
+  },
+  {
+    "countryID": "VNM",
+    "country": "Vietnam",
+    "name": "Ts'ün-Lao",
+    "languageID": "tsl"
+  }
+]

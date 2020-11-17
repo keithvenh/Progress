@@ -1,0 +1,45 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_verse: false
+  ts_one: false
+  ts_two: false
+  ts_three: false
+  ts_four: false
+  ts_five: false
+  ts_six: false
+  ts_seven: false
+  ts_eight: false
+  ts_nine: false
+  ts_ten: false
+  ts_eleven: false
+  ts_twelve: false
+  genesis: false
+  jesus_film: false
+  lumo: false
+  user: one
+  base: one
+  language: one
+  adopted_language: one
+
+two:
+  first_verse: false
+  ts_one: false
+  ts_two: false
+  ts_three: false
+  ts_four: false
+  ts_five: false
+  ts_six: false
+  ts_seven: false
+  ts_eight: false
+  ts_nine: false
+  ts_ten: false
+  ts_eleven: false
+  ts_twelve: false
+  genesis: false
+  jesus_film: false
+  lumo: false
+  user: two
+  base: two
+  language: two
+  adopted_language: two

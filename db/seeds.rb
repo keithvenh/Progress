@@ -1,7 +1,20 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+require 'json' 
+
+languages = JSON.parse(File.read('db/biblelessLangs.json'))
+
+languages.each do |lang|
+
+    Language.create(
+        country_id: lang['countryID'],
+        country: lang['country'],
+        language_code: lang['languageID'],
+        language: lang['name']
+    )
+
+end
+
+Location.create(
+    name: "YWAM Kona",
+    city: "Kailua-Kona",
+    country: "United States"
+)

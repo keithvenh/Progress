@@ -1,0 +1,2 @@
+module AdoptedLanguagesHelper
+end

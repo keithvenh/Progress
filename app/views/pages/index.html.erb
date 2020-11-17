@@ -1,0 +1,15 @@
+<h1>Home Page</h1>
+
+<% if user_signed_in? %>
+
+    <p><%= link_to "My Languages", user_adopted_languages_path(current_user) %></p>
+    <p><%= link_to "Adopt a Language", new_user_adopted_language_path(current_user) %></p>
+    <p><%= link_to "Update Profile", edit_user_registration_path(current_user) %></p>
+    <p><%= link_to "Sign Out", destroy_user_session_path, method: :delete %></p>
+
+<% else %>
+
+    <p><%= link_to "Log In", new_user_session_path %></p>
+    <p><%= link_to "Sign Up", new_user_registration_path %></p>
+
+<% end %>

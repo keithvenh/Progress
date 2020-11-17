@@ -1,0 +1,18 @@
+<h1>Adopt a Language</h1>
+<%= form_for [@user, @adoptee] do |f| %>
+
+        <div class="form-category">
+
+            <%= f.hidden_field :user_id, value: @user.id %>
+
+            <%= select(:adopted_language, :country, @countries, {prompt: ''}, {class: "form-input select", id: 'country'}) %>
+
+            <%= select(:adopted_language, :language_code, [], {prompt: ''}, {class: "form-input select", id: 'language'}) %>
+
+        </div>
+
+        <div class="form-category">
+            <%= f.submit "Submit", class: "button form-button success" %>
+        </div>
+
+<% end %>
