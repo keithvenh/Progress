@@ -1,24 +1,34 @@
-<h1>My Languages</h1>
+<article class="my-langs">
 
-<table>
-<thead>
-    <tr>
-        <th>Country</th>
-        <th>Language</th>
-        <th>Progress</th>
-    </tr>
-</thead>
-<tbody>
-<% @langs.each do |l| %>
+    <table class='my-languages-table'>
+        <thead>
+            <tr class="table-header">
+                <th>My Languages</th>
+            </tr>
+            <tr class="head-row">
+                <th>Country</th>
+                <th>Language</th>
+                <th>Progress</th>
+            </tr>
+        </thead>
+        <tbody>
+        <% @langs.each do |l| %>
 
-    <tr>
-        <td><%=l.language.country %></td>
-        <td><%= l.language.language %></td>
-        <td></td>
-    </tr>
+            <tr class="body-row">
+                <td><%=l.language.country %></td>
+                <td><%= l.language.language %></td>
+                <td></td>
+            </tr>
 
-<% end %>
-</tbody>
-</table>
+        <% end %>
+        </tbody>
+        <tfoot>
+            <tr class="table-footer">
+                <td colspan=3><%= link_to "Adopt a Language", new_user_adopted_language_path(current_user) %></td>
+            </tr>
+        </tfoot>
+    </table>
 
-<p><%= link_to "Adopt a Language", new_user_adopted_language_path(current_user) %></p>
+    <p></p>
+
+</article>

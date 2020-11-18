@@ -1,3 +1,63 @@
-// Place all the styles related to the adopted_languages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: https://sass-lang.com/
+.my-langs {
+    padding: 24px 0;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.my-languages-table {
+
+    tr {
+        border-bottom: 1px solid $text;
+    }
+
+    .table-footer {
+        border-bottom: none;
+        text-align: right;
+        a {
+            border-bottom: 2px dotted $blue;
+            color: $blue;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            &:hover {
+                color: $text;
+            }
+        }
+    }
+    .table-header {
+        border-bottom: none;
+        th {
+            font-size: 24px;
+            padding: 12px;
+            text-align: left;
+        }
+    }    
+
+    .head-row {
+        th {
+            font-family: $industry;
+            font-weight: 400;
+            border-bottom: 2px solid $text;
+            text-transform: uppercase;
+            padding: 6px;
+        }
+    }
+
+    td {
+        padding: 8px 16px;
+        border-right: 1px solid $text;
+    }
+
+    td:last-child {
+        border-right: none;
+    }
+
+    .body-row:last-child {
+        border-bottom: none;
+    }
+
+
+
+}
