@@ -1,18 +1,28 @@
-<h1>Adopt a Language</h1>
-<%= form_for [@user, @adoptee] do |f| %>
+<div class='form-container'>
+    <p class='form-title'>Adopt a Language</p>
 
-        <div class="form-category">
+    <%= form_for [@user, @adoptee] do |f| %>
 
-            <%= f.hidden_field :user_id, value: @user.id %>
+            <div class="form-category">
 
-            <%= select(:adopted_language, :country, @countries, {prompt: ''}, {class: "form-input select", id: 'country'}) %>
+                <%= f.hidden_field :user_id, value: @user.id %>
 
-            <%= select(:adopted_language, :language_code, [], {prompt: ''}, {class: "form-input select", id: 'language'}) %>
+                <div class="form-field">
+                    <%= select(:adopted_language, :country, @countries, {prompt: ''}, {class: "form-input select", id: 'country'}) %>
+                    <p class="form-label">Country</p>
+                </div>
 
-        </div>
+                <div class="form-field">
+                    <%= select(:adopted_language, :language_code, [], {prompt: ''}, {class: "form-input select", id: 'language'}) %>
+                    <p class="form-label">Language</p>
+                </div>
 
-        <div class="form-category">
-            <%= f.submit "Submit", class: "button form-button success" %>
-        </div>
+            </div>
 
-<% end %>
+            <div class="form-field">
+                <%= f.submit "Submit", class: "button form-button success" %>
+            </div>
+
+    <% end %>
+
+</div>

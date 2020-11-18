@@ -1,0 +1,61 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    padding: 24px 0;
+}
+
+.form-title {
+    font-family: $industry;
+    margin: 12px;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.form-field {
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.form-input {
+    background: none;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid $text;
+    min-width: 300px;
+    font-family: $open;
+    font-weight: 300;
+    font-size: 16px;
+    padding: 3px 6px;
+}
+
+.form-label {
+    padding: 3px 6px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.form-subtext {
+    padding: 0 12px;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.form-button {
+    align-self: center;
+    background: $primary;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: none;
+    font-family: $industry;
+    font-weight: 400;
+    padding: 6px 12px;
+}
+
+.form-field.checkbox {
+    flex-direction: row;
+}
