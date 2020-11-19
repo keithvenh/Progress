@@ -10,79 +10,90 @@
 <% cafr = rand(100) %>
 <% lam = rand(100) %>
 <% safr = rand(100) %>
-<article class="progress">
 
-    <section class="progress-bar overall">
+<div class='overall-circle'>
 
-        <p class="progress-label">Overall</p>
+    <div class='circle-container overall'>
+        <div id="overall" data-current="<%= rand(@overall.count) %>" data-max="<%= @overall.count %>">
 
-        <div class="bar-container">
-
-            <div class="bar" style="width: <%= overall %>%">
-                
-                <p class="current"><%= ((overall/100.0) * 1000).round() %></p>
-
-            </div>
+            
 
         </div>
+        <p class='circle-label'>Overall</p>
+    </div>
 
-        <p class="total">1000</p>
+</div>
 
-    </section>
+<div class='region-circles'>
 
-    <section class="progress-bar">
+    <div class='circle-container'>
+        <div class='circle' id="australia" data-current="<%= rand(@australia.count) %>" data-max="<%= @australia.count %>">
+        </div>  
+        <p class='circle-label'>Australia & Melanesia</p>
+    </div>
 
-        <p class="progress-label">Australia & Melanesia</p>
+    <div class='circle-container'>
+        <div class='circle' id="islands" data-current="<%= rand(@islands.count) %>" data-max="<%= @islands.count %>">
+        </div>  
+        <p class='circle-label'>Islands of Asia</p>
+    </div>
 
-        <div class="bar-container" style="width: 45%">
+    <div class='circle-container'>
+        <div class='circle' id="se-asia" data-current="<%= rand(@se_asia.count) %>" data-max="<%= @se_asia.count %>">
+        </div>  
+        <p class='circle-label'>Southeast Asia</p>
+    </div>
 
-            <div class="bar" style="width: <%= aus %>%; background-color: #7721a3">
+    <div class='circle-container'>
+        <div class='circle' id="south-asia" data-current="<%= rand(@south_asia.count ) %>" data-max="<%= @south_asia.count %>">
+        </div>  
+        <p class='circle-label'>South Asia</p>
+    </div>
 
-            <p class="current"><%= ((aus/100.0) * 220).round() %></p>
+    <div class='circle-container'>
+        <div class='circle' id="east-africa" data-current="<%= rand(@east_africa.count ) %>" data-max="<%= @east_africa.count %>">
+        </div>  
+        <p class='circle-label'>East Africa</p>
+    </div>
 
-            </div>
+    <div class='circle-container'>
+        <div class='circle' id="southern-africa" data-current="<%= rand(@southern_africa.count ) %>" data-max="<%= @southern_africa.count %>">
+        </div>  
+        <p class='circle-label'>Southern Africa</p>
+    </div>
 
-        </div>
+    <div class='circle-container'>
+        <div class='circle' id="central-africa" data-current="<%= rand(@central_africa.count ) %>" data-max="<%= @central_africa.count %>">
+        </div>  
+        <p class='circle-label'>Central Africa</p>
+    </div>
 
-        <p class="total">220</p>
+    <div class='circle-container'>
+        <div class='circle' id="francophone" data-current="<%= rand(@francophone.count ) %>" data-max="<%= @francophone.count %>">
+        </div>  
+        <p class='circle-label'>Francophone West Africa</p>
+    </div>
 
-    </section>
+    <div class='circle-container'>
+        <div class='circle' id="anglophone" data-current="<%= rand(@anglophone.count) %>" data-max="<%= @anglophone.count %>">
+        </div>  
+        <p class='circle-label'>Anglophone West Africa</p>
+    </div>
 
-    <section class="progress-bar">
+    <div class='circle-container'>
+        <div class='circle' id="latin-america" data-current="<%= rand(@latin_america.count ) %>" data-max="<%= @latin_america.count %>">
+        </div>  
+        <p class='circle-label'>Latin America</p>
+    </div>
 
-        <p class="progress-label">Islands of Asia</p>
+    <div class='circle-container'>
+        <div class='circle' id="other" data-current="<%= rand(@other.count ) %>" data-max="<%= @other.count %>">
+        </div>  
+        <p class='circle-label'>Other</p>
+    </div>
 
-        <div class="bar-container" style="width: 40%">
+</div>
 
-            <div class="bar" style="width: <%= islands %>%;  background-color: #28c620">
-
-            <p class="current"><%= ((islands/100.0) * 150).round() %></p>
-
-            </div>
-
-        </div>
-
-        <p class="total">150</p>
-
-    </section>
-
-    <section class="progress-bar">
-
-        <p class="progress-label">Anglophone West Africa</p>
-
-        <div class="bar-container" style="width: 40%">
-
-            <div class="bar" style="width: <%= awafr %>%;  background-color: #f3272c">
-
-            <p class="current"><%= ((awafr/100.0) * 150).round() %></p>
-
-            </div>
-
-        </div>
-
-        <p class="total">150</p>
-
-    </section>
 
     <section class="progress-bar">
 
