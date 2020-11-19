@@ -1,19 +1,20 @@
-require 'json' 
+require 'csv' 
 
-languages = JSON.parse(File.read('db/biblelessLangs.json'))
+languages = CSV.read('db/obt-languages.csv', headers: true)
 
 languages.each do |lang|
 
-    Language.create(
-        country_id: lang['countryID'],
+    Language.create( 
+        region: lang['region'],
         country: lang['country'],
-        language_code: lang['languageID'],
-        language: lang['name']
+        language: lang['language'],
+        language_code: lang['language_code'],
+        population: lang['population']
     )
 
 end
 
-Location.create(
+YwamBase.create(
     name: "YWAM Kona",
     city: "Kailua-Kona",
     country: "United States"

@@ -1,0 +1,2 @@
+class YwamBase < ApplicationRecord
+end

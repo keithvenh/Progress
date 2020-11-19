@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  get 'translations/edit'
   get 'adopted_languages/new'
   get 'adopted_languages/edit'
   get 'adopted_languages/show'
@@ -14,5 +15,7 @@ Rails.application.routes.draw do
   resources :users do
     resources :adopted_languages
   end 
+
+  resources :translations
 
 end

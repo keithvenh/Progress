@@ -16,7 +16,7 @@
     </div>
 
     <div class="form-field">
-      <%= f.collection_select(:location_id, Location.all, :id, :name, {prompt: ''}, {class: "form-input select", id: 'base'}) %>
+      <%= f.collection_select(:ywam_base_id, YwamBase.all, :id, :name, {prompt: ''}, {class: "form-input select", id: 'base'}) %>
       <p class="form-label">Base</p>
     </div>
     

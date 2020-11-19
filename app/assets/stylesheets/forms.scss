@@ -54,6 +54,9 @@
     font-family: $industry;
     font-weight: 400;
     padding: 6px 12px;
+    &:hover {
+        cursor: pointer;
+    }
 }
 
 .form-field.checkbox {

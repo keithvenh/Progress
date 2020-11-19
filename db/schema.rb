@@ -22,18 +22,11 @@ ActiveRecord::Schema.define(version: 2020_11_17_020636) do
   end
 
   create_table "languages", force: :cascade do |t|
-    t.string "country_id"
+    t.string "region"
     t.string "country"
     t.string "language_code"
     t.string "language"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-  end
-
-  create_table "locations", force: :cascade do |t|
-    t.string "name"
-    t.string "city"
-    t.string "country"
+    t.integer "population"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -139,15 +132,15 @@ ActiveRecord::Schema.define(version: 2020_11_17_020636) do
     t.boolean "jesus_film"
     t.boolean "lumo"
     t.integer "user_id", null: false
-    t.integer "base_id", null: false
+    t.integer "ywam_base_id", null: false
     t.integer "language_id", null: false
     t.integer "adopted_language_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["adopted_language_id"], name: "index_translations_on_adopted_language_id"
-    t.index ["base_id"], name: "index_translations_on_base_id"
     t.index ["language_id"], name: "index_translations_on_language_id"
     t.index ["user_id"], name: "index_translations_on_user_id"
+    t.index ["ywam_base_id"], name: "index_translations_on_ywam_base_id"
   end
 
   create_table "users", force: :cascade do |t|
@@ -159,17 +152,25 @@ ActiveRecord::Schema.define(version: 2020_11_17_020636) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "name"
-    t.integer "location_id", null: false
+    t.integer "ywam_base_id", null: false
     t.index ["email"], name: "index_users_on_email", unique: true
-    t.index ["location_id"], name: "index_users_on_location_id"
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
+    t.index ["ywam_base_id"], name: "index_users_on_ywam_base_id"
+  end
+
+  create_table "ywam_bases", force: :cascade do |t|
+    t.string "name"
+    t.string "country"
+    t.string "city"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
   add_foreign_key "adopted_languages", "languages"
   add_foreign_key "adopted_languages", "users"
   add_foreign_key "translations", "adopted_languages"
-  add_foreign_key "translations", "bases", column: "base_id"
   add_foreign_key "translations", "languages"
   add_foreign_key "translations", "users"
-  add_foreign_key "users", "locations"
+  add_foreign_key "translations", "ywam_bases", column: "ywam_base_id"
+  add_foreign_key "users", "ywam_bases", column: "ywam_base_id"
 end

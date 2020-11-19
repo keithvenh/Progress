@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class BaseTest < ActiveSupport::TestCase
+class YwamBaseTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
