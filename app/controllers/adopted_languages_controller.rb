@@ -28,7 +28,8 @@ class AdoptedLanguagesController < ApplicationController
           redirect_to root_url
         end
     else
-      render 'new'
+      flash.alert = "You have already adopted this language"
+      redirect_to new_user_adopted_language_url
     end
   end
 
