@@ -60,8 +60,12 @@ window.addEventListener('turbolinks:load', () => {
         thickness: 100,
         value: 0,
         size: 1000,
+        emptyFill: "rgba(245,211,39,0.1)",
         fill: {
             color: "#f5d327"
+        },
+        animation: {
+            duration: 3000
         }
     });
 
@@ -72,62 +76,76 @@ window.addEventListener('turbolinks:load', () => {
         size: 750,
         fill: {
             color: "#f5d327"
+        },
+        animation: {
+            duration: 2000
         }
     });
 
     $('#australia').circleProgress({
         fill: "#0fa707",
-        value: (percents.australia.current / percents.australia.max)
+        value: (percents.australia.current / percents.australia.max),
+        emptyFill: "rgba(15,167,7,0.1)"
     });
 
     $('#islands').circleProgress({
         fill: "#cc090e",
-        value: (percents.islands.current / percents.islands.max)
+        value: (percents.islands.current / percents.islands.max),
+        emptyFill: "rgba(204,9,14,0.1)"
     });
     
     $('#se-asia').circleProgress({
         fill: "#32168e",
-        value: (percents.seAsia.current / percents.seAsia.max)
+        value: (percents.seAsia.current / percents.seAsia.max),
+        emptyFill: "rgba(50,22,142,0.1)"
     });
 
     $('#south-asia').circleProgress({
         fill: "#cbce09",
-        value: (percents.southAsia.current / percents.southAsia.max)
+        value: (percents.southAsia.current / percents.southAsia.max),
+        emptyFill: "rgba(203,206,9,0.1)"
     });
 
     $('#east-africa').circleProgress({
         fill: "#057c7c",
-        value: (percents.eastAfrica.current / percents.eastAfrica.max)
+        value: (percents.eastAfrica.current / percents.eastAfrica.max),
+        emptyFill: "rgba(5,124,124,0.1)"
     });
 
     $('#southern-africa').circleProgress({
         fill: "#ce6209",
-        value: (percents.southernAfrica.current / percents.southernAfrica.max)
+        value: (percents.southernAfrica.current / percents.southernAfrica.max),
+        emptyFill: "rgba(206,98,9,0.1)"
     });
 
     $('#central-africa').circleProgress({
         fill: "#5f0c89",
-        value: (percents.centralAfrica.current / percents.centralAfrica.max)
+        value: (percents.centralAfrica.current / percents.centralAfrica.max),
+        emptyFill: "rgba(95,12,137,0.1)"
     });
 
     $('#francophone').circleProgress({
         fill: "#88c108",
-        value: (percents.francophone.current / percents.francophone.max)
+        value: (percents.francophone.current / percents.francophone.max),
+        emptyFill: "rgba(136,193,8,0.1)"
     });
 
     $('#anglophone').circleProgress({
         fill: "#133b89",
-        value: (percents.anglophone.current / percents.anglophone.max)
+        value: (percents.anglophone.current / percents.anglophone.max),
+        emptyFill: "rgba(19,59,137,0.1)"
     });
 
     $('#latin-america').circleProgress({
         fill: "#ce8a09",
-        value: (percents.latinAmerica.current / percents.latinAmerica.max)
+        value: (percents.latinAmerica.current / percents.latinAmerica.max),
+        emptyFill: "rgba(206,138,9,0.1)"
     });
 
     $('#other').circleProgress({
         fill: "#a20765",
-        value: (percents.other.current / percents.other.max)
+        value: (percents.other.current / percents.other.max),
+        emptyFill: "rgba(162,7,101,0.1)"
     });
 
     setTimeout(() => {

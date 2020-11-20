@@ -1,242 +1,133 @@
-<% overall = rand(100) %>
-<% aus = rand(100) %>
-<% islands = rand(100) %>
-<% awafr = rand(100) %>
-<% seasia = rand(100) %>
-<% sasia = rand(100) %>
-<% fwafr = rand(100) %>
-<% other = rand(100) %>
-<% eafr = rand(100) %>
-<% cafr = rand(100) %>
-<% lam = rand(100) %>
-<% safr = rand(100) %>
+<% aus = rand(@australia.count) %>
+<% islands = rand(@islands.count) %>
+<% awafr = rand(@anglophone.count) %>
+<% seasia = rand(@se_asia.count) %>
+<% sasia = rand(@south_asia.count) %>
+<% fwafr = rand(@francophone.count) %>
+<% other = rand(@other.count) %>
+<% eafr = rand(@east_africa.count) %>
+<% cafr = rand(@central_africa.count) %>
+<% lam = rand(@latin_america.count) %>
+<% safr = rand(@southern_africa.count) %>
+<% overall = (aus + islands + awafr + seasia + sasia + fwafr + other + eafr + cafr + lam + safr) %>
 
-<div class='overall-circle'>
+<article class="progress">
 
-    <div class='circle-container overall'>
-        <div id="overall" data-current="<%= rand(@overall.count) %>" data-max="<%= @overall.count %>">
+    <div class='overall-circle'>
 
-            
+        <div class='circle-container overall'>
+            <div id="overall" data-current="<%= @overall[:current] %>" data-max="<%= @overall[:max] %>">
 
-        </div>
-        <p class='circle-label'>Overall</p>
-    </div>
-
-</div>
-
-<div class='region-circles'>
-
-    <div class='circle-container'>
-        <div class='circle' id="australia" data-current="<%= rand(@australia.count) %>" data-max="<%= @australia.count %>">
-        </div>  
-        <p class='circle-label'>Australia & Melanesia</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="islands" data-current="<%= rand(@islands.count) %>" data-max="<%= @islands.count %>">
-        </div>  
-        <p class='circle-label'>Islands of Asia</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="se-asia" data-current="<%= rand(@se_asia.count) %>" data-max="<%= @se_asia.count %>">
-        </div>  
-        <p class='circle-label'>Southeast Asia</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="south-asia" data-current="<%= rand(@south_asia.count ) %>" data-max="<%= @south_asia.count %>">
-        </div>  
-        <p class='circle-label'>South Asia</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="east-africa" data-current="<%= rand(@east_africa.count ) %>" data-max="<%= @east_africa.count %>">
-        </div>  
-        <p class='circle-label'>East Africa</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="southern-africa" data-current="<%= rand(@southern_africa.count ) %>" data-max="<%= @southern_africa.count %>">
-        </div>  
-        <p class='circle-label'>Southern Africa</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="central-africa" data-current="<%= rand(@central_africa.count ) %>" data-max="<%= @central_africa.count %>">
-        </div>  
-        <p class='circle-label'>Central Africa</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="francophone" data-current="<%= rand(@francophone.count ) %>" data-max="<%= @francophone.count %>">
-        </div>  
-        <p class='circle-label'>Francophone West Africa</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="anglophone" data-current="<%= rand(@anglophone.count) %>" data-max="<%= @anglophone.count %>">
-        </div>  
-        <p class='circle-label'>Anglophone West Africa</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="latin-america" data-current="<%= rand(@latin_america.count ) %>" data-max="<%= @latin_america.count %>">
-        </div>  
-        <p class='circle-label'>Latin America</p>
-    </div>
-
-    <div class='circle-container'>
-        <div class='circle' id="other" data-current="<%= rand(@other.count ) %>" data-max="<%= @other.count %>">
-        </div>  
-        <p class='circle-label'>Other</p>
-    </div>
-
-</div>
-
-
-    <section class="progress-bar">
-
-        <p class="progress-label">Southeast Asia</p>
-
-        <div class="bar-container" style="width: 35%">
-
-            <div class="bar" style="width: <%= seasia %>%;  background-color: #2851a3">
-
-            <p class="current"><%= ((seasia/100.0) * 100).round() %></p>
+                <div class='lang-count'>
+                    <p class='current'><%= @overall[:current] %></p>
+                </div>
 
             </div>
-
+            <p class='circle-label'>Overall</p>
         </div>
 
-        <p class="total">100</p>
+    </div>
 
-    </section>
+    <div class='region-circles'>
 
-    <section class="progress-bar">
-
-        <p class="progress-label">South Asia</p>
-
-        <div class="bar-container" style="width: 35%">
-
-            <div class="bar" style="width: <%= sasia %>%;  background-color: #179393">
-            
-                <p class="current"><%= ((sasia/100.0) * 100).round() %></p>
-
-            </div>
-
+        <div class='circle-container'>
+            <div class='circle' id="australia" data-current="<%= @australia[:current] %>" data-max="<%= @australia[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @australia[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Australia & Melanesia</p>
         </div>
 
-        <p class="total">100</p>
-
-    </section>
-
-    <section class="progress-bar">
-
-        <p class="progress-label">Francophone West Africa</p>
-
-        <div class="bar-container" style="width: 30%">
-
-            <div class="bar" style="width: <%= fwafr %>%;  background-color: #aae625">
-
-                <p class="current"><%= ((fwafr/100.0) * 75).round() %></p>
-
-            </div>
-
+        <div class='circle-container'>
+            <div class='circle' id="islands" data-current="<%= @islands[:current] %>" data-max="<%= @islands[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @islands[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Islands of Asia</p>
         </div>
 
-        <p class="total">75</p>
-
-    </section>
-
-    <section class="progress-bar">
-
-        <p class="progress-label">Other</p>
-
-        <div class="bar-container" style="width: 30%">
-
-            <div class="bar" style="width: <%= other %>%;  background-color: #f2f427">
-
-                <p class="current"><%= ((other/100.0) * 75).round() %></p>
-
-            </div>
-
+        <div class='circle-container'>
+            <div class='circle' id="se-asia" data-current="<%= @se_asia[:current] %>" data-max="<%= @se_asia[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @se_asia[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Southeast Asia</p>
         </div>
 
-        <p class="total">75</p>
-
-    </section>
-
-    <section class="progress-bar">
-
-        <p class="progress-label">East Africa</p>
-
-        <div class="bar-container" style="width: 25%">
-
-            <div class="bar" style="width: <%= eafr %>%;  background-color: #f5ae27">
-
-                <p class="current"><%= ((eafr/100.0) * 40).round() %></p>
-
-            </div>
-
+        <div class='circle-container'>
+            <div class='circle' id="south-asia" data-current="<%= @south_asia[:current] %>" data-max="<%= @south_asia[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @south_asia[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>South Asia</p>
         </div>
 
-        <p class="total">40</p>
-
-    </section>
-
-    <section class="progress-bar">
-
-        <p class="progress-label">Central Africa</p>
-
-        <div class="bar-container" style="width: 25%">
-
-            <div class="bar" style="width: <%= cafr %>%;  background-color: #c11f81">
-
-                <p class="current"><%= ((cafr/100.0) * 40).round() %></p>
-
-            </div>
-
+        <div class='circle-container'>
+            <div class='circle' id="east-africa" data-current="<%= @east_africa[:current] %>" data-max="<%= @east_africa[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @east_africa[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>East Africa</p>
         </div>
 
-        <p class="total">40</p>
-
-    </section>
-
-    <section class="progress-bar">
-
-        <p class="progress-label">Latin America</p>
-
-        <div class="bar-container" style="width: 20%">
-
-            <div class="bar" style="width: <%= lam %>%;  background-color: #492ba9">
-
-                <p class="current"><%= ((lam/100.0) * 30).round() %></p>
-
-            </div>
-
+        <div class='circle-container'>
+            <div class='circle' id="southern-africa" data-current="<%= @southern_africa[:current] %>" data-max="<%= @southern_africa[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @southern_africa[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Southern Africa</p>
         </div>
 
-        <p class="total">30</p>
-
-    </section>
-
-    <section class="progress-bar">
-
-        <p class="progress-label">Southern Africa</p>
-
-        <div class="bar-container" style="width: 15%">
-
-            <div class="bar" style="width: <%= safr %>%;  background-color: #f58427">
-
-                <p class="current"><%= ((safr/100.0) * 20).round() %></p>
-
-            </div>
-
+        <div class='circle-container'>
+            <div class='circle' id="central-africa" data-current="<%= @central_africa[:current] %>" data-max="<%= @central_africa[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @central_africa[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Central Africa</p>
         </div>
 
-        <p class="total">20</p>
+        <div class='circle-container'>
+            <div class='circle' id="francophone" data-current="<%= @francophone[:current] %>" data-max="<%= @francophone[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @francophone[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Francophone West Africa</p>
+        </div>
 
-    </section>
+        <div class='circle-container'>
+            <div class='circle' id="anglophone" data-current="<%= @anglophone[:current] %>" data-max="<%= @anglophone[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @anglophone[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Anglophone West Africa</p>
+        </div>
 
+        <div class='circle-container'>
+            <div class='circle' id="latin-america" data-current="<%= @latin_america[:current] %>" data-max="<%= @latin_america[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @latin_america[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Latin America</p>
+        </div>
+
+        <div class='circle-container'>
+            <div class='circle' id="other" data-current="<%= @other[:current] %>" data-max="<%= @other[:max] %>">
+                <div class='lang-count'>
+                    <p class='current'><%= @other[:current] %></p>
+                </div>
+            </div>  
+            <p class='circle-label'>Other</p>
+        </div>
+
+    </div>
 </article>
