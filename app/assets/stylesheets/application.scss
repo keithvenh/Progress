@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
 }
 
-.alert {
+.alert, .notice {
     text-align: center;
     padding: 12px;
 }
@@ -35,4 +35,9 @@ h1, h2, h3, h4, h5, h6 {
 .alert {
     background-color: rgba(255,0,0,0.1);
     color: #a00;
+}
+
+.notice {
+    background-color: rgba(0,190,0,0.2);
+    color: #050;
 }
