@@ -1,14 +1,14 @@
 class AdoptedLanguagesController < ApplicationController
   def index
     @user = User.find(params[:user_id])
-    @langs = AdoptedLanguage.where(user_id: @user.id)
+    @langs = AdoptedLanguage.where(user_id: @user.id).alphabetical
   end
 
   def new
     @user = current_user
     @languages = Language.all
     @adoptee = AdoptedLanguage.new
-    @countries = Language.distinct.pluck(:country)
+    @countries = Language.group(:country)
   end
 
   def create

@@ -7,13 +7,15 @@
 
                 <%= f.hidden_field :user_id, value: @user.id %>
 
+                
+
                 <div class="form-field">
-                    <%= select(:adopted_language, :country, @countries, {prompt: ''}, {class: "form-input select", id: 'country'}) %>
+                    <%= select(:adopted_language, :country, grouped_options_for_select(country_by_region(@countries)), {prompt: ''}, {class: "form-input select", id: 'country'}) %>
                     <p class="form-label">Country</p>
                 </div>
 
                 <div class="form-field">
-                    <%= select(:adopted_language, :language_code, [], {prompt: ''}, {class: "form-input select", id: 'language'}) %>
+                    <%= select(:adopted_language, :language_code, [], {prompt: 'Please Select A Country'}, {class: "form-input select", id: 'language', disabled: true}) %>
                     <p class="form-label">Language</p>
                 </div>
 

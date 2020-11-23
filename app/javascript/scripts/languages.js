@@ -5,6 +5,7 @@ window.addEventListener('turbolinks:load', () => {
         $("#country").change(function () {
             var choice = $(this).val();
             console.log(choice);
+            $("#language").removeAttr("disabled");
             $("#language").empty();
             $("#language").append(`<optgroup id="country_label" label="${choice}"></optgroup>`)
             $.each (data, function( key, val) {
