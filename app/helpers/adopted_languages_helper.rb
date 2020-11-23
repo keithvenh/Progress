@@ -16,8 +16,8 @@ module AdoptedLanguagesHelper
             ['Other', []]
         ]
         
-        countries.each do |c|
-            
+        countries.each do |country|
+            c = country[1][0]
             case c.region
             when 'Australia & Melanesia'
                 groups[0][1].push(c.country)

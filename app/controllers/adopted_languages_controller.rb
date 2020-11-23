@@ -8,7 +8,7 @@ class AdoptedLanguagesController < ApplicationController
     @user = current_user
     @languages = Language.all
     @adoptee = AdoptedLanguage.new
-    @countries = Language.select(:id, :region, :country).group(:country)
+    @countries = Language.all.group_by {|lang| lang.country}
   end
 
   def create
