@@ -4,7 +4,9 @@ Rails.application.routes.draw do
   get 'adopted_languages/new'
   get 'adopted_languages/edit'
   get 'adopted_languages/show'
-  devise_for :users
+  devise_for :users, controllers: {
+    confirmations: 'confirmations'
+  }
   root 'pages#index'
   
   get 'pages/index'

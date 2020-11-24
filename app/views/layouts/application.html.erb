@@ -14,15 +14,18 @@
   </head>
 
   <body>
-    <%= render 'layouts/header' %>
+    <div class="container <%= controller_name %>-<%= action_name %>">
 
-    <% if controller_name != "pages" %>
-      <% flash.each do |type, msg| %>
-        <div class='<%= type %>'>
-          <%= msg %>
-        </div>
+      <%= render 'layouts/header' %>
+
+      <% if controller_name != "pages" %>
+        <% flash.each do |type, msg| %>
+          <div class='<%= type %>'>
+            <%= msg %>
+          </div>
+        <% end %>
       <% end %>
-    <% end %>
-    <%= yield %>
+      <%= yield %>
+    </div>
   </body>
 </html>
