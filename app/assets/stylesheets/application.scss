@@ -52,3 +52,11 @@ h1, h2, h3, h4, h5, h6 {
     background-color: rgba(0,190,0,0.2);
     color: #050;
 }
+
+.landing {
+    height: calc(100vh - 120px);
+    width: 100vw;
+    background-image: url('landing-page.png');
+    background-position: center center;
+    background-size: cover;
+}
