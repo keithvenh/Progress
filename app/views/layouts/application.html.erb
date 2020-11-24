@@ -18,12 +18,10 @@
 
       <%= render 'layouts/header' %>
 
-      <% if controller_name != "pages" %>
         <% flash.each do |type, msg| %>
           <div class='<%= type %>'>
             <%= msg %>
           </div>
-        <% end %>
       <% end %>
       <%= yield %>
     </div>

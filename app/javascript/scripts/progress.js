@@ -57,9 +57,9 @@ window.addEventListener('turbolinks:load', () => {
     
     let overall = $('#overall').circleProgress({
         startAngle: -Math.PI/2,
-        thickness: 100,
+        thickness: 50,
         value: 0,
-        size: 1000,
+        size: 500,
         emptyFill: "rgba(245,211,39,0.1)",
         fill: {
             color: "#f5d327"
@@ -71,9 +71,9 @@ window.addEventListener('turbolinks:load', () => {
 
     let circles = $('.circle').circleProgress({
         startAngle: -Math.PI/2,
-        thickness: 75,
+        thickness: 30,
         value: 0,
-        size: 750,
+        size: 300,
         fill: {
             color: "#f5d327"
         },
