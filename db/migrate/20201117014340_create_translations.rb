@@ -101,7 +101,6 @@ class CreateTranslations < ActiveRecord::Migration[6.0]
       t.boolean :jesus_film
       t.boolean :lumo
       t.references :user, null: false, foreign_key: true
-      t.references :ywam_base, null: false, foreign_key: true
       t.references :language, null: false, foreign_key: true
       t.references :adopted_language, null: false, foreign_key: true
 

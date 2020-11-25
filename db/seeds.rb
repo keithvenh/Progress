@@ -13,9 +13,3 @@ languages.each do |lang|
     )
 
 end
-
-YwamBase.create(
-    name: "YWAM Kona",
-    city: "Kailua-Kona",
-    country: "United States"
-)

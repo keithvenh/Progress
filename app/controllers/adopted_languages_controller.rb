@@ -18,10 +18,8 @@ class AdoptedLanguagesController < ApplicationController
     @adoptee = AdoptedLanguage.new(user_id: params["user_id"], language_id: @lang.id)
 
     if @adoptee.save
-        @trans = Translation.new(user_id: params['user_id'], language_id: @lang.id, ywam_base_id: @user.ywam_base_id, adopted_language_id: @adoptee.id)
-        puts "="*40
-        puts @trans.ywam_base.name
-        puts "="*40
+        @trans = Translation.new(user_id: params['user_id'], language_id: @lang.id, adopted_language_id: @adoptee.id)
+
         if @trans.save!
           redirect_to user_adopted_languages_path(@user)
         else
