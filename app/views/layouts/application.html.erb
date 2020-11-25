@@ -14,10 +14,12 @@
   </head>
 
   <body>
-  
+
     <div class="container <%= controller_name %>-<%= action_name %>">
 
-      <%= render 'layouts/header' %>
+      <% if action_name != 'display' %>
+        <%= render 'layouts/header' %>
+      <% end %>
 
       <% flash.each do |type, msg| %>
           <div class='<%= type %>'>
