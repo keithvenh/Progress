@@ -3,7 +3,7 @@
 
 @media screen and (max-width: 600px) {
     body {
-        font-size: 32px;
+        font-size: 2em;
     }
   }
 
@@ -19,6 +19,13 @@
     box-sizing: border-box;
     justify-content: space-evenly;
     align-items: center;
+    .progress-header {
+        font-size: 3em;
+        font-family: $industry;
+        text-align: center;
+        width: 100%;
+        text-transform: uppercase;
+    }
 }
 
 .overall-circle {
