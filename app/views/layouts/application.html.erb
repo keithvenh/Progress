@@ -14,16 +14,19 @@
   </head>
 
   <body>
+  
     <div class="container <%= controller_name %>-<%= action_name %>">
 
       <%= render 'layouts/header' %>
 
-        <% flash.each do |type, msg| %>
+      <% flash.each do |type, msg| %>
           <div class='<%= type %>'>
             <%= msg %>
           </div>
       <% end %>
+
       <%= yield %>
+
     </div>
   </body>
 </html>
