@@ -14,14 +14,14 @@
     z-index: 10;
     .beta {
         width: 100%;
-        height: 1.5rem;
+        height: 24px;
         background-color: #607989;
         color: white;
         margin: 0;
         text-align: center;
         box-sizing: border-box;
-        font-size: 1rem;
-        line-height: 1.5rem; 
+        font-size: 16px;
+        line-height: 24px; 
         font-weight: bold;
     }
 }
@@ -59,12 +59,15 @@
         height: 70px;
         flex-direction: row;
         flex-wrap: wrap;
-        align-items: flex-start;
     }
 
     .logo {
+        height: calc(70px - 24px);
+        display: flex;
+        align-items: center;
         img {
             max-height: 24px;
+            max-width: 50vw;
             padding: 0 20px;
         }
     }
@@ -96,6 +99,9 @@
         padding: 0 20px;
         cursor: pointer;
         z-index: 10;
+        height: calc(70px - 24px);
+        display: flex;
+        align-items: center;
         #cross {
             display: none;
         }
