@@ -52,8 +52,6 @@ window.addEventListener('turbolinks:load', () => {
             max: $('#other').data('max')
         }
     }
-
-    console.log(percents.overall);
     
     let overall = $('#overall').circleProgress({
         startAngle: -Math.PI/2,
@@ -64,8 +62,9 @@ window.addEventListener('turbolinks:load', () => {
         fill: {
             color: "#f5d327"
         },
+        animationStartValue: 1.0,
         animation: {
-            duration: 3000
+            duration: 1000
         }
     });
 
@@ -77,8 +76,9 @@ window.addEventListener('turbolinks:load', () => {
         fill: {
             color: "#f5d327"
         },
+        animationStartValue: 1.0,
         animation: {
-            duration: 2000
+            duration: 1000
         }
     });
 
@@ -148,10 +148,8 @@ window.addEventListener('turbolinks:load', () => {
         emptyFill: "rgba(162,7,101,0.1)"
     });
 
-    setTimeout(() => {
-        overall.circleProgress({
-            value: (percents.overall.current / percents.overall.max)
-        })
-    }, 500)
+    overall.circleProgress({
+        value: (percents.overall.current / percents.overall.max)
+    })
 
 })

@@ -4,7 +4,6 @@ window.addEventListener('turbolinks:load', () => {
     
         $("#country").change(function () {
             var choice = $(this).val();
-            console.log(choice);
             $("#language").removeAttr("disabled");
             $("#adopt-button").removeAttr("disabled");
             $("#language").empty();
@@ -18,5 +17,12 @@ window.addEventListener('turbolinks:load', () => {
         });
 
     });
+
+    $('#hamburger').click(() => {
+        console.log('Clicked');
+        $('#ham').toggle();
+        $('#cross').toggle();
+        $('#nav').toggle();
+    })
 
 })
